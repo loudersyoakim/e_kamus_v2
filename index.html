@@ -1428,6 +1428,26 @@
       </div>
       <button
         class="corner-btn"
+        id="btn-home"
+        title="Kembali ke Daftar Isi"
+        aria-label="Kembali ke Daftar Isi"
+      >
+        <svg
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="white"
+          stroke-width="2.5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+          <polyline points="9 22 9 12 15 12 15 22" />
+        </svg>
+      </button>
+      <button
+        class="corner-btn"
         id="btn-install"
         title="Install App"
         aria-label="Install App"
@@ -2168,6 +2188,10 @@
       document.getElementById("btn-prev").addEventListener("click", goPrev);
       document.getElementById("btn-next").addEventListener("click", goNext);
 
+      /* Tombol Home (Aksi lompat ke Daftar Isi) */
+      document.getElementById("btn-home").addEventListener("click", function () {
+        goToPage(6); // Angka 6 adalah indeks halaman fisik Daftar Isi di aplikasimu
+      });
       /* Mobile floating nav buttons */
       document
         .getElementById("mob-btn-prev")
