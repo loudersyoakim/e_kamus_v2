@@ -1,0 +1,494 @@
+<div
+  class="pg-inner"
+  style="
+    background: #f1fbf1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    padding: 15px;
+  "
+>
+  <style>
+    /* ===================================================
+       PENGUNCI FONT GEORGIA PRO UNTUK SEMUA ELEMEN QUIZ
+    =================================================== */
+    #inline-quiz-app,
+    #inline-quiz-app * {
+      font-family: "Georgia Pro", Georgia, serif !important;
+    }
+
+    /* Variabel & Reset Lokal */
+    #inline-quiz-app {
+      width: 100%;
+      max-width: 380px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      justify-content: flex-start;
+      gap: 12px;
+    }
+
+    /* Screen Awal (Start Screen) */
+    .qz-start-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      gap: 15px;
+      text-align: center;
+    }
+    .qz-start-title {
+      font-size: 32px;
+      font-weight: 600;
+      color: #3f3d56;
+      margin: 0;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+      line-height: 1.2;
+    }
+    .qz-start-subtitle {
+      font-size: 16px;
+      color: #78909c;
+      margin: 0;
+      line-height: 1.4;
+    }
+    .qz-start-img {
+      width: 200px;
+      height: auto;
+      object-fit: contain;
+      filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.15));
+      animation: floatStart 3s ease-in-out infinite;
+    }
+    @keyframes floatStart {
+      0%,
+      100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-8px);
+      }
+    }
+
+    /* Header: Progress & Score */
+    .qz-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: white;
+      padding: 10px 16px;
+      border-radius: 16px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+      border: 2px solid #d7ccc8;
+      flex-shrink: 0;
+      text-align: center;
+      line-height: 1.2;
+    }
+    .qz-score {
+      font-weight: 600;
+      color: #f57c00;
+      font-size: 16px;
+    }
+    .qz-progress {
+      font-size: 14px;
+      color: #3f3d56;
+      font-weight: 600;
+    }
+
+    /* Question Card */
+    .qz-card {
+      background: white;
+      border-radius: 20px;
+      padding: 16px;
+      text-align: center;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+      border: 2px solid #d7ccc8;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      overflow: hidden;
+      justify-content: space-between;
+    }
+
+    /* Layout Karakter & Gambar/Emoji */
+    .qz-question-layout {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 4px;
+    }
+    .qz-question-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 150px;
+    }
+
+    .qz-img {
+      height: 110px;
+      object-fit: contain;
+      border-radius: 12px;
+      display: none;
+    }
+    .qz-emoji {
+      font-size: 70px;
+      line-height: 1;
+      display: none;
+    }
+    .qz-word {
+      /* PERUBAHAN: Ukuran huruf dinamis (Maksimal 32px, Minimal 18px) */
+      font-size: clamp(18px, 45ch / var(--word-length, 1), 32px);
+
+      font-weight: 600;
+      color: #3f3d56;
+      margin-top: 8px;
+      margin-bottom: 2px;
+      line-height: 1.1;
+    }
+    .qz-instruction {
+      font-size: 15px;
+      color: #3f3d56;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+
+    /* Karakter Kiri Kanan */
+    .qz-char-small {
+      height: 90px;
+      object-fit: contain;
+      transition: transform 0.3s;
+      filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.08));
+    }
+    .qz-char-small.pop {
+      animation: charPopSmall 0.4s ease-out;
+    }
+    @keyframes charPopSmall {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.15) translateY(-5px);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+
+    /* Tombol Pilihan Jawaban */
+    .qz-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 4px;
+      flex-shrink: 0;
+    }
+    .qz-btn-pg {
+      background: #fafafa;
+      border: 2px solid #e3f2fd;
+      border-radius: 16px;
+      padding: 16px 10px;
+      font-size: 17px;
+      font-weight: 600;
+      color: #37474f;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .qz-btn-pg.correct {
+      background: #c8e6c9 !important;
+      border-color: #a5d6a7 !important;
+      color: #1b5e20 !important;
+    }
+    .qz-btn-pg.wrong {
+      background: #ffcdd2 !important;
+      border-color: #ef9a9a !important;
+      color: #b71c1c !important;
+    }
+
+    /* Essay */
+    .qz-essay-area {
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 4px;
+      flex-shrink: 0;
+    }
+    .qz-input {
+      width: 100%;
+      padding: 14px;
+      border-radius: 16px;
+      border: 2px solid #bcaaa4; /* Asalnya #c5b4e3 */
+      background: #fdf8f5; /* Asalnya #f3e5f5 */
+      font-size: 18px;
+      text-align: center;
+      color: #3f3d56;
+      box-sizing: border-box;
+      outline: none;
+    }
+    .qz-input:focus {
+      border-color: #8d6e63; /* Asalnya #ab47bc */
+      background: white;
+    }
+
+    .qz-btn-submit {
+      width: 100%;
+      padding: 12px;
+      background: linear-gradient(135deg, #8d6e63, #5d4037);
+      border: none;
+      border-radius: 16px;
+      font-size: 18px;
+      font-weight: 600;
+      color: white;
+      line-height: 1.3;
+    }
+
+    /* Feedback Inline */
+    .qz-feedback {
+      padding: 10px;
+      border-radius: 14px;
+      text-align: center;
+      display: none;
+      margin-top: auto;
+    }
+    .qz-fb-text {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 4px;
+      line-height: 1.2;
+    }
+    .qz-fb-ans {
+      font-size: 14px;
+      color: #3f3d56;
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+
+    .qz-btn-next {
+      background: linear-gradient(135deg, #66bb6a, #388e3c);
+      color: white;
+      border: none;
+      border-radius: 12px;
+      padding: 10px 24px;
+      font-size: 16px;
+      font-weight: 600;
+      width: 100%;
+      line-height: 1.3;
+    }
+
+    .qz-main-btn {
+      background: linear-gradient(135deg, #ff9100, #ff6d00);
+      color: white; /* Menghapus duplikasi properti color */
+      border: none;
+      border-radius: 16px;
+      padding: 12px 40px;
+      font-size: 18px;
+      font-weight: 600;
+      cursor: pointer;
+
+      /* PERUBAHAN: Mengubah warna bayangan 3D dari ungu ke oranye gelap agar serasi */
+      box-shadow:
+        0 5px 0 #b34a00,
+        0 10px 15px rgba(0, 0, 0, 0.15);
+
+      /* PERUBAHAN: Mempercepat transisi (0.1s) agar efek klik terasa instan dan responsif */
+      transition: all 0.1s ease;
+      line-height: 1.3;
+    }
+
+    .qz-main-btn:active {
+      /* PERUBAHAN: Diturunkan sejauh 4px sesuai ketebalan bayangan saat ditekan */
+      transform: translateY(4px);
+
+      /* PERUBAHAN: Menyisakan 1px bayangan bawah agar efek amblasnya sempurna */
+      box-shadow:
+        0 1px 0 #b34a00,
+        0 5px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Screen Hasil Akhir */
+    #qz-result {
+      text-align: center;
+      display: none;
+      padding-top: 10px;
+      flex: 1;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .qz-result-title {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 4px;
+      line-height: 1.2;
+    }
+    .qz-result-subtitle {
+      font-size: 16px;
+      color: #546e7a;
+      margin-bottom: 15px;
+      line-height: 1.3;
+    }
+
+    .qz-char-center {
+      height: 160px;
+      object-fit: contain;
+      margin-bottom: 10px;
+      filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.15));
+      animation: floatStart 3s ease-in-out infinite;
+    }
+    .qz-result-score {
+      font-size: 70px;
+      color: #f57c00;
+      font-weight: 600;
+      line-height: 1;
+      margin-bottom: 5px;
+    }
+    .qz-result-label {
+      font-size: 16px;
+      color: #3f3d56;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+  </style>
+
+  <div id="inline-quiz-app" style="display: none">
+    <div id="qz-screen-start" class="qz-start-screen" style="display: none">
+      <h2 class="qz-start-title">
+        Quiz Time!<br /><span style="font-size: 0.6em; color: #78909c"
+          >Waktunya Quiz!</span
+        >
+      </h2>
+
+      <img class="qz-start-img" src="./img/start_quiz.png" alt="Start Quiz" />
+
+      <button class="qz-main-btn" onclick="window.quizApp.startQuestions()">
+        START
+      </button>
+    </div>
+
+    <div
+      id="qz-screen-question"
+      style="display: none; flex-direction: column; height: 100%; gap: 10px"
+    >
+      <div class="qz-header">
+        <span class="qz-progress" id="qz-progress"></span>
+        <span class="qz-score" id="qz-score"></span>
+      </div>
+
+      <div class="qz-card">
+        <div class="qz-question-layout">
+          <img
+            id="qz-char-left"
+            class="qz-char-small"
+            src="./img/think1.png"
+            alt=""
+          />
+
+          <div class="qz-question-content">
+            <img id="qz-img" class="qz-img" src="" alt="" />
+            <div id="qz-emoji" class="qz-emoji">🖼️</div>
+            <div id="qz-word" class="qz-word">Kata</div>
+            <div id="qz-instruction" class="qz-instruction"></div>
+          </div>
+
+          <img
+            id="qz-char-right"
+            class="qz-char-small"
+            src="./img/think2.png"
+            alt=""
+          />
+        </div>
+
+        <div id="qz-pg-area" class="qz-grid">
+          <button
+            class="qz-btn-pg"
+            id="qz-pg-0"
+            onclick="window.quizApp.answerPG(0)"
+          ></button>
+          <button
+            class="qz-btn-pg"
+            id="qz-pg-1"
+            onclick="window.quizApp.answerPG(1)"
+          ></button>
+          <button
+            class="qz-btn-pg"
+            id="qz-pg-2"
+            onclick="window.quizApp.answerPG(2)"
+          ></button>
+          <button
+            class="qz-btn-pg"
+            id="qz-pg-3"
+            onclick="window.quizApp.answerPG(3)"
+          ></button>
+        </div>
+
+        <div id="qz-essay-area" class="qz-essay-area">
+          <input
+            type="text"
+            id="qz-essay-input"
+            class="qz-input"
+            placeholder="Type here... (Ketik di sini)"
+            autocomplete="off"
+            spellcheck="false"
+            onkeydown="if (event.key === 'Enter') window.quizApp.answerEssay();"
+            onmousedown="event.stopPropagation()"
+            ontouchstart="event.stopPropagation()"
+            onclick="this.focus()"
+          />
+          <button
+            class="qz-btn-submit"
+            id="qz-essay-submit"
+            onclick="window.quizApp.answerEssay()"
+          >
+            Check Answer!
+          </button>
+        </div>
+
+        <div id="qz-feedback" class="qz-feedback">
+          <div id="qz-fb-text" class="qz-fb-text"></div>
+          <div id="qz-fb-ans" class="qz-fb-ans"></div>
+          <button
+            id="qz-btn-next"
+            class="qz-btn-next"
+            onclick="window.quizApp.nextQuestion()"
+          ></button>
+        </div>
+      </div>
+    </div>
+
+    <div id="qz-result">
+      <div class="qz-result-title" id="qz-result-title"></div>
+      <div class="qz-result-subtitle" id="qz-result-subtitle"></div>
+
+      <img
+        id="qz-result-char-center"
+        class="qz-char-center"
+        src="./img/score-100.png"
+        alt=""
+      />
+
+      <div class="qz-result-score" id="qz-result-score">100</div>
+      <div class="qz-result-label">
+        Total Score<br /><span style="font-size: 0.8em; color: #78909c"
+          >Total Nilaimu</span
+        >
+      </div>
+
+      <button
+        class="qz-main-btn"
+        style="margin-top: 15px"
+        onclick="window.quizApp.start()"
+      >
+        Play Again!
+      </button>
+    </div>
+  </div>
+
+  <div
+    id="qz-loading"
+    style="margin-top: 100px; color: #c5b4e3; font-weight: 600; font-size: 16px"
+  >
+    Loading Quiz...
+  </div>
+</div>

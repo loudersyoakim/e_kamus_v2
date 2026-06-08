@@ -1,0 +1,29 @@
+{
+  "name": "E-Kamus",
+  "short_name": "E-Kamus",
+  "description": "Kamus Bergambar Interaktif untuk Anak",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "landscape",
+  "background_color": "#4AA8E8",
+  "theme_color": "#4AA8E8",
+  "lang": "id",
+  "categories": ["education", "kids"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,5247 @@
+{
+  "chapters": [
+    {},
+    {
+      "id": "Bab 1",
+      "title": "My Family",
+      "title_id": "Keluargaku",
+      "bg_img": "./img/family/0.png",
+      "color": "#E74C3C",
+      "words": [
+        {
+          "id_": "Adik laki-laki",
+          "en": "younger brother",
+          "pron": "yang-ger bra-der",
+          "emoji": "🖼️",
+          "img": "./img/family/1.png"
+        },
+        {
+          "id_": "Adik perempuan",
+          "en": "little sister",
+          "pron": "li-del sis-ter",
+          "emoji": "🖼️",
+          "img": "./img/family/2.png"
+        },
+        {
+          "id_": "Ayah",
+          "en": "father",
+          "pron": "fa-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/3.png"
+        },
+        {
+          "id_": "Bayi",
+          "en": "baby",
+          "pron": "bei-bi",
+          "emoji": "🖼️",
+          "img": "./img/family/4.png"
+        },
+        {
+          "id_": "Bibi",
+          "en": "aunt",
+          "pron": "ent",
+          "emoji": "🖼️",
+          "img": "./img/family/5.png"
+        },
+        {
+          "id_": "Cucu",
+          "en": "grandchild",
+          "pron": "gren-chaeld",
+          "emoji": "🖼️",
+          "img": "./img/family/6.png"
+        },
+        {
+          "id_": "Ibu",
+          "en": "mother",
+          "pron": "ma-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/7.png"
+        },
+        {
+          "id_": "Istri",
+          "en": "wife",
+          "pron": "waif",
+          "emoji": "🖼️",
+          "img": "./img/family/8.png"
+        },
+        {
+          "id_": "Kakak laki-laki",
+          "en": "older brother",
+          "pron": "oul-der bra-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/9.png"
+        },
+        {
+          "id_": "Kakak perempuan",
+          "en": "older sister",
+          "pron": "oul-der sis-ter",
+          "emoji": "🖼️",
+          "img": "./img/family/10.png"
+        },
+        {
+          "id_": "Kakek",
+          "en": "grandfather",
+          "pron": "gren-fa-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/11.png"
+        },
+        {
+          "id_": "Keponakan laki-laki",
+          "en": "nephew",
+          "pron": "ne-fyu",
+          "emoji": "🖼️",
+          "img": "./img/family/12.png"
+        },
+        {
+          "id_": "Keponakan perempuan",
+          "en": "niece",
+          "pron": "nis",
+          "emoji": "🖼️",
+          "img": "./img/family/13.png"
+        },
+        {
+          "id_": "Nenek",
+          "en": "grandmother",
+          "pron": "gren-ma-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/14.png"
+        },
+        {
+          "id_": "Orang tua",
+          "en": "parents",
+          "pron": "pe-rents",
+          "emoji": "🖼️",
+          "img": "./img/family/15.png"
+        },
+        {
+          "id_": "Paman",
+          "en": "uncle",
+          "pron": "ang-kel",
+          "emoji": "🖼️",
+          "img": "./img/family/16.png"
+        },
+        {
+          "id_": "Putra",
+          "en": "son",
+          "pron": "san",
+          "emoji": "🖼️",
+          "img": "./img/family/17.png"
+        },
+        {
+          "id_": "Putri",
+          "en": "daughter",
+          "pron": "da-der",
+          "emoji": "🖼️",
+          "img": "./img/family/18.png"
+        },
+        {
+          "id_": "Saudara kandung",
+          "en": "sibling",
+          "pron": "sib-ling",
+          "emoji": "🖼️",
+          "img": "./img/family/19.png"
+        },
+        {
+          "id_": "Saudara laki-laki",
+          "en": "brother",
+          "pron": "bra-dher",
+          "emoji": "🖼️",
+          "img": "./img/family/20.png"
+        },
+        {
+          "id_": "Saudara perempuan",
+          "en": "sister",
+          "pron": "sis-ter",
+          "emoji": "🖼️",
+          "img": "./img/family/21.png"
+        },
+        {
+          "id_": "Sepupu",
+          "en": "cousin",
+          "pron": "ka-sen",
+          "emoji": "🖼️",
+          "img": "./img/family/22.png"
+        },
+        {
+          "id_": "Suami",
+          "en": "husband",
+          "pron": "has-bend",
+          "emoji": "🖼️",
+          "img": "./img/family/23.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 2",
+      "title": "My House",
+      "title_id": "Rumahku",
+      "bg_img": "./img/house/0.png",
+      "color": "#3498DB",
+      "words": [
+        {
+          "id_": "AC",
+          "en": "air conditioner",
+          "pron": "er ken-di-sye-ner",
+          "emoji": "🖼️",
+          "img": "./img/house/1.png"
+        },
+        {
+          "id_": "Ayakan",
+          "en": "sifter",
+          "pron": "sif-ter",
+          "emoji": "🖼️",
+          "img": "./img/house/2.png"
+        },
+        {
+          "id_": "Bak mandi",
+          "en": "bathtub",
+          "pron": "bath-ab",
+          "emoji": "🖼️",
+          "img": "./img/house/3.png"
+        },
+        {
+          "id_": "Bantal",
+          "en": "pillow",
+          "pron": "pi-lou",
+          "emoji": "🖼️",
+          "img": "./img/house/4.png"
+        },
+        {
+          "id_": "Botol",
+          "en": "bottle",
+          "pron": "ba-del",
+          "emoji": "🖼️",
+          "img": "./img/house/5.png"
+        },
+        {
+          "id_": "Bunga",
+          "en": "flower",
+          "pron": "flau-er",
+          "emoji": "🖼️",
+          "img": "./img/house/6.png"
+        },
+        {
+          "id_": "Cangkir",
+          "en": "cup",
+          "pron": "kap",
+          "emoji": "🖼️",
+          "img": "./img/house/7.png"
+        },
+        {
+          "id_": "Celemek",
+          "en": "apron",
+          "pron": "ei-pren",
+          "emoji": "🖼️",
+          "img": "./img/house/8.png"
+        },
+        {
+          "id_": "Ceret",
+          "en": "kettle",
+          "pron": "ke-del",
+          "emoji": "🖼️",
+          "img": "./img/house/9.png"
+        },
+        {
+          "id_": "Cermin",
+          "en": "mirror",
+          "pron": "mi-rer",
+          "emoji": "🖼️",
+          "img": "./img/house/10.png"
+        },
+        {
+          "id_": "Corong",
+          "en": "funnel",
+          "pron": "fa-nel",
+          "emoji": "🖼️",
+          "img": "./img/house/11.png"
+        },
+        {
+          "id_": "Ember",
+          "en": "bucket",
+          "pron": "ba-ket",
+          "emoji": "🖼️",
+          "img": "./img/house/12.png"
+        },
+        {
+          "id_": "Gantungan baju",
+          "en": "hanger",
+          "pron": "heng-er",
+          "emoji": "🖼️",
+          "img": "./img/house/13.png"
+        },
+        {
+          "id_": "Garpu",
+          "en": "fork",
+          "pron": "fork",
+          "emoji": "🖼️",
+          "img": "./img/house/14.png"
+        },
+        {
+          "id_": "Gayung",
+          "en": "dipper",
+          "pron": "di-per",
+          "emoji": "🖼️",
+          "img": "./img/house/15.png"
+        },
+        {
+          "id_": "Gelas",
+          "en": "glass",
+          "pron": "glas",
+          "emoji": "🖼️",
+          "img": "./img/house/16.png"
+        },
+        {
+          "id_": "Gelas ukur",
+          "en": "measuring cup",
+          "pron": "me-syu-ring kap",
+          "emoji": "🖼️",
+          "img": "./img/house/17.png"
+        },
+        {
+          "id_": "Guling",
+          "en": "bolster",
+          "pron": "boul-ster",
+          "emoji": "🖼️",
+          "img": "./img/house/18.png"
+        },
+        {
+          "id_": "Handuk",
+          "en": "towel",
+          "pron": "taul",
+          "emoji": "🖼️",
+          "img": "./img/house/19.png"
+        },
+        {
+          "id_": "Jam dinding",
+          "en": "wall clock",
+          "pron": "wol klak",
+          "emoji": "🖼️",
+          "img": "./img/house/20.png"
+        },
+        {
+          "id_": "Jendela",
+          "en": "window",
+          "pron": "win-dou",
+          "emoji": "🖼️",
+          "img": "./img/house/21.png"
+        },
+        {
+          "id_": "Karpet",
+          "en": "carpet",
+          "pron": "kar-pet",
+          "emoji": "🖼️",
+          "img": "./img/house/22.png"
+        },
+        {
+          "id_": "Keran",
+          "en": "faucet",
+          "pron": "faw-set",
+          "emoji": "🖼️",
+          "img": "./img/house/23.png"
+        },
+        {
+          "id_": "Keranjang",
+          "en": "basket",
+          "pron": "bas-ket",
+          "emoji": "🖼️",
+          "img": "./img/house/24.png"
+        },
+        {
+          "id_": "Keset",
+          "en": "doormat",
+          "pron": "dor-mat",
+          "emoji": "🖼️",
+          "img": "./img/house/25.png"
+        },
+        {
+          "id_": "Kipas angin",
+          "en": "fan",
+          "pron": "fen",
+          "emoji": "🖼️",
+          "img": "./img/house/26.png"
+        },
+        {
+          "id_": "Kloset",
+          "en": "water closet",
+          "pron": "wa-der klau-set",
+          "emoji": "🖼️",
+          "img": "./img/house/27.png"
+        },
+        {
+          "id_": "Kompor",
+          "en": "stove",
+          "pron": "stov",
+          "emoji": "🖼️",
+          "img": "./img/house/28.png"
+        },
+        {
+          "id_": "Kulkas",
+          "en": "refrigerator",
+          "pron": "ri-fri-je-rei-ter",
+          "emoji": "🖼️",
+          "img": "./img/house/29.png"
+        },
+        {
+          "id_": "Lampu",
+          "en": "lamp",
+          "pron": "lemp",
+          "emoji": "🖼️",
+          "img": "./img/house/30.png"
+        },
+        {
+          "id_": "Lemari",
+          "en": "cupboard",
+          "pron": "kap-berd",
+          "emoji": "🖼️",
+          "img": "./img/house/31.png"
+        },
+        {
+          "id_": "Lesung",
+          "en": "mortar",
+          "pron": "mor-der",
+          "emoji": "🖼️",
+          "img": "./img/house/32.png"
+        },
+        {
+          "id_": "Loyang kue",
+          "en": "cake pan",
+          "pron": "keik pen",
+          "emoji": "🖼️",
+          "img": "./img/house/33.png"
+        },
+        {
+          "id_": "Mangkuk",
+          "en": "bowl",
+          "pron": "boul",
+          "emoji": "🖼️",
+          "img": "./img/house/34.png"
+        },
+        {
+          "id_": "Meja",
+          "en": "table",
+          "pron": "tei-bel",
+          "emoji": "🖼️",
+          "img": "./img/house/35.png"
+        },
+        {
+          "id_": "Oven",
+          "en": "oven",
+          "pron": "a-ven",
+          "emoji": "🖼️",
+          "img": "./img/house/36.png"
+        },
+        {
+          "id_": "Pagar",
+          "en": "fence",
+          "pron": "fens",
+          "emoji": "🖼️",
+          "img": "./img/house/37.png"
+        },
+        {
+          "id_": "Panci",
+          "en": "pot",
+          "pron": "pot",
+          "emoji": "🖼️",
+          "img": "./img/house/38.png"
+        },
+        {
+          "id_": "Parutan",
+          "en": "grater",
+          "pron": "grei-der",
+          "emoji": "🖼️",
+          "img": "./img/house/39.png"
+        },
+        {
+          "id_": "Pasta gigi",
+          "en": "toothpaste",
+          "pron": "tuf-peist",
+          "emoji": "🖼️",
+          "img": "./img/house/40.png"
+        },
+        {
+          "id_": "Payung",
+          "en": "umbrella",
+          "pron": "am-bre-la",
+          "emoji": "🖼️",
+          "img": "./img/house/41.png"
+        },
+        {
+          "id_": "Pel",
+          "en": "mop",
+          "pron": "mop",
+          "emoji": "🖼️",
+          "img": "./img/house/42.png"
+        },
+        {
+          "id_": "Pelumat",
+          "en": "blender",
+          "pron": "blen-der",
+          "emoji": "🖼️",
+          "img": "./img/house/43.png"
+        },
+        {
+          "id_": "Pemanggang",
+          "en": "grill",
+          "pron": "gril",
+          "emoji": "🖼️",
+          "img": "./img/house/44.png"
+        },
+        {
+          "id_": "Pemanggang roti",
+          "en": "toaster",
+          "pron": "tou-ster",
+          "emoji": "🖼️",
+          "img": "./img/house/45.png"
+        },
+        {
+          "id_": "Penanak nasi",
+          "en": "rice cooker",
+          "pron": "rais ku-ker",
+          "emoji": "🖼️",
+          "img": "./img/house/46.png"
+        },
+        {
+          "id_": "Pengaduk",
+          "en": "mixer",
+          "pron": "mik-ser",
+          "emoji": "🖼️",
+          "img": "./img/house/47.png"
+        },
+        {
+          "id_": "Pengasah pisau",
+          "en": "knife sharpener",
+          "pron": "naif syar-pe-ner",
+          "emoji": "🖼️",
+          "img": "./img/house/48.png"
+        },
+        {
+          "id_": "Pengki",
+          "en": "dustpan",
+          "pron": "das-pen",
+          "emoji": "🖼️",
+          "img": "./img/house/49.png"
+        },
+        {
+          "id_": "Pengupas",
+          "en": "peeler",
+          "pron": "pi-ler",
+          "emoji": "🖼️",
+          "img": "./img/house/50.png"
+        },
+        {
+          "id_": "Penjepit",
+          "en": "tongs",
+          "pron": "tongs",
+          "emoji": "🖼️",
+          "img": "./img/house/51.png"
+        },
+        {
+          "id_": "Pintu",
+          "en": "door",
+          "pron": "dor",
+          "emoji": "🖼️",
+          "img": "./img/house/52.png"
+        },
+        {
+          "id_": "Piring",
+          "en": "plate",
+          "pron": "ple-it",
+          "emoji": "🖼️",
+          "img": "./img/house/53.png"
+        },
+        {
+          "id_": "Pisau",
+          "en": "knife",
+          "pron": "naif",
+          "emoji": "🖼️",
+          "img": "./img/house/54.png"
+        },
+        {
+          "id_": "Rak piring",
+          "en": "dish rack",
+          "pron": "dis rak",
+          "emoji": "🖼️",
+          "img": "./img/house/55.png"
+        },
+        {
+          "id_": "Remote",
+          "en": "remote",
+          "pron": "ri-mout",
+          "emoji": "🖼️",
+          "img": "./img/house/56.png"
+        },
+        {
+          "id_": "Sabun",
+          "en": "soap",
+          "pron": "soup",
+          "emoji": "🖼️",
+          "img": "./img/house/57.png"
+        },
+        {
+          "id_": "Sampo",
+          "en": "shampoo",
+          "pron": "syem-pu",
+          "emoji": "🖼️",
+          "img": "./img/house/58.png"
+        },
+        {
+          "id_": "Sapu",
+          "en": "broom",
+          "pron": "brum",
+          "emoji": "🖼️",
+          "img": "./img/house/59.png"
+        },
+        {
+          "id_": "Saringan",
+          "en": "colander",
+          "pron": "ka-len-der",
+          "emoji": "🖼️",
+          "img": "./img/house/60.png"
+        },
+        {
+          "id_": "Selimut",
+          "en": "blanket",
+          "pron": "bleng-kit",
+          "emoji": "🖼️",
+          "img": "./img/house/61.png"
+        },
+        {
+          "id_": "Sendok",
+          "en": "spoon",
+          "pron": "spun",
+          "emoji": "🖼️",
+          "img": "./img/house/62.png"
+        },
+        {
+          "id_": "Serbet",
+          "en": "napkin",
+          "pron": "nap-kin",
+          "emoji": "🖼️",
+          "img": "./img/house/63.png"
+        },
+        {
+          "id_": "Sikat gigi",
+          "en": "toothbrush",
+          "pron": "tuf-brash",
+          "emoji": "🖼️",
+          "img": "./img/house/64.png"
+        },
+        {
+          "id_": "Sisir",
+          "en": "comb",
+          "pron": "koum",
+          "emoji": "🖼️",
+          "img": "./img/house/65.png"
+        },
+        {
+          "id_": "Sofa",
+          "en": "sofa",
+          "pron": "so-fa",
+          "emoji": "🖼️",
+          "img": "./img/house/66.png"
+        },
+        {
+          "id_": "Stoples",
+          "en": "jar",
+          "pron": "jar",
+          "emoji": "🖼️",
+          "img": "./img/house/67.png"
+        },
+        {
+          "id_": "Sumpit",
+          "en": "chopsticks",
+          "pron": "cop-stiks",
+          "emoji": "🖼️",
+          "img": "./img/house/68.png"
+        },
+        {
+          "id_": "Sutil",
+          "en": "spatula",
+          "pron": "spa-cu-la",
+          "emoji": "🖼️",
+          "img": "./img/house/69.png"
+        },
+        {
+          "id_": "Talenan",
+          "en": "cutting board",
+          "pron": "ka-ding bord",
+          "emoji": "🖼️",
+          "img": "./img/house/70.png"
+        },
+        {
+          "id_": "Taplak meja",
+          "en": "tablecloth",
+          "pron": "tei-bel-klof",
+          "emoji": "🖼️",
+          "img": "./img/house/71.png"
+        },
+        {
+          "id_": "Televisi",
+          "en": "television",
+          "pron": "te-le-vi-syin",
+          "emoji": "🖼️",
+          "img": "./img/house/72.png"
+        },
+        {
+          "id_": "Tempat sampah",
+          "en": "trash bin",
+          "pron": "tras bin",
+          "emoji": "🖼️",
+          "img": "./img/house/73.png"
+        },
+        {
+          "id_": "Tempat tidur",
+          "en": "bed",
+          "pron": "bed",
+          "emoji": "🖼️",
+          "img": "./img/house/74.png"
+        },
+        {
+          "id_": "Tirai",
+          "en": "curtain",
+          "pron": "ker-ten",
+          "emoji": "🖼️",
+          "img": "./img/house/75.png"
+        },
+        {
+          "id_": "Tisu",
+          "en": "tissue",
+          "pron": "ti-syu",
+          "emoji": "🖼️",
+          "img": "./img/house/76.png"
+        },
+        {
+          "id_": "Wajan",
+          "en": "wok",
+          "pron": "wak",
+          "emoji": "🖼️",
+          "img": "./img/house/77.png"
+        },
+        {
+          "id_": "Wastafel",
+          "en": "sink",
+          "pron": "singk",
+          "emoji": "🖼️",
+          "img": "./img/house/78.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 3",
+      "title": "Things at My School",
+      "title_id": "Benda di Sekolahku",
+      "bg_img": "./img/school/0.png",
+      "color": "#F39C12",
+      "words": [
+        {
+          "id_": "Bendera",
+          "en": "flag",
+          "pron": "fleg",
+          "emoji": "🖼️",
+          "img": "./img/school/1.png"
+        },
+        {
+          "id_": "Bola dunia",
+          "en": "globe",
+          "pron": "glob",
+          "emoji": "🖼️",
+          "img": "./img/school/2.png"
+        },
+        {
+          "id_": "Buku",
+          "en": "book",
+          "pron": "buk",
+          "emoji": "🖼️",
+          "img": "./img/school/3.png"
+        },
+        {
+          "id_": "Gantungan kunci",
+          "en": "key chain",
+          "pron": "ki chein",
+          "emoji": "🖼️",
+          "img": "./img/school/4.png"
+        },
+        {
+          "id_": "Gerbang",
+          "en": "gate",
+          "pron": "geit",
+          "emoji": "🖼️",
+          "img": "./img/school/5.png"
+        },
+        {
+          "id_": "Gunting",
+          "en": "scissors",
+          "pron": "si-sers",
+          "emoji": "🖼️",
+          "img": "./img/school/6.png"
+        },
+        {
+          "id_": "Kaca pembesar",
+          "en": "magnifying glass",
+          "pron": "mag-ni-fa-ing glas",
+          "emoji": "🖼️",
+          "img": "./img/school/7.png"
+        },
+        {
+          "id_": "Kacamata",
+          "en": "glasses",
+          "pron": "gla-ses",
+          "emoji": "🖼️",
+          "img": "./img/school/8.png"
+        },
+        {
+          "id_": "Kalender",
+          "en": "calendar",
+          "pron": "ka-len-der",
+          "emoji": "🖼️",
+          "img": "./img/school/9.png"
+        },
+        {
+          "id_": "Kalkulator",
+          "en": "calculator",
+          "pron": "kal-kyu-lei-der",
+          "emoji": "🖼️",
+          "img": "./img/school/10.png"
+        },
+        {
+          "id_": "Kamus",
+          "en": "dictionary",
+          "pron": "dik-sye-neri",
+          "emoji": "🖼️",
+          "img": "./img/school/11.png"
+        },
+        {
+          "id_": "Kapur",
+          "en": "chalk",
+          "pron": "chok",
+          "emoji": "🖼️",
+          "img": "./img/school/12.png"
+        },
+        {
+          "id_": "Kertas",
+          "en": "paper",
+          "pron": "pei-per",
+          "emoji": "🖼️",
+          "img": "./img/school/13.png"
+        },
+        {
+          "id_": "Kertas Origami",
+          "en": "origami paper",
+          "pron": "ore-ga-mi pei-per",
+          "emoji": "🖼️",
+          "img": "./img/school/14.png"
+        },
+        {
+          "id_": "Kompas",
+          "en": "compass",
+          "pron": "kom-pes",
+          "emoji": "🖼️",
+          "img": "./img/school/15.png"
+        },
+        {
+          "id_": "Komputer",
+          "en": "computer",
+          "pron": "kom-pyu-der",
+          "emoji": "🖼️",
+          "img": "./img/school/16.png"
+        },
+        {
+          "id_": "Kotak bekal",
+          "en": "lunch box",
+          "pron": "lanch boks",
+          "emoji": "🖼️",
+          "img": "./img/school/17.png"
+        },
+        {
+          "id_": "Kotak pensil",
+          "en": "pencil case",
+          "pron": "pen-sil keis",
+          "emoji": "🖼️",
+          "img": "./img/school/18.png"
+        },
+        {
+          "id_": "Krayon",
+          "en": "crayon",
+          "pron": "kre-yon",
+          "emoji": "🖼️",
+          "img": "./img/school/19.png"
+        },
+        {
+          "id_": "Kursi",
+          "en": "chair",
+          "pron": "cer",
+          "emoji": "🖼️",
+          "img": "./img/school/20.png"
+        },
+        {
+          "id_": "Laci",
+          "en": "drawer",
+          "pron": "dro-er",
+          "emoji": "🖼️",
+          "img": "./img/school/21.png"
+        },
+        {
+          "id_": "Lapangan",
+          "en": "field",
+          "pron": "fild",
+          "emoji": "🖼️",
+          "img": "./img/school/22.png"
+        },
+        {
+          "id_": "Lem",
+          "en": "glue",
+          "pron": "glu",
+          "emoji": "🖼️",
+          "img": "./img/school/23.png"
+        },
+        {
+          "id_": "Lonceng",
+          "en": "bell",
+          "pron": "bel",
+          "emoji": "🖼️",
+          "img": "./img/school/24.png"
+        },
+        {
+          "id_": "Majalah dinding",
+          "en": "wall magazine",
+          "pron": "wol ma-ga-zin",
+          "emoji": "🖼️",
+          "img": "./img/school/25.png"
+        },
+        {
+          "id_": "Meja",
+          "en": "table",
+          "pron": "tei-bel",
+          "emoji": "🖼️",
+          "img": "./img/school/26.png"
+        },
+        {
+          "id_": "Papan tulis hitam",
+          "en": "blackboard",
+          "pron": "blak-bord",
+          "emoji": "🖼️",
+          "img": "./img/school/27.png"
+        },
+        {
+          "id_": "Papan tulis putih",
+          "en": "whiteboard",
+          "pron": "wait-bord",
+          "emoji": "🖼️",
+          "img": "./img/school/28.png"
+        },
+        {
+          "id_": "Pena",
+          "en": "pen",
+          "pron": "pen",
+          "emoji": "🖼️",
+          "img": "./img/school/29.png"
+        },
+        {
+          "id_": "Penggaris",
+          "en": "ruler",
+          "pron": "ru-ler",
+          "emoji": "🖼️",
+          "img": "./img/school/30.png"
+        },
+        {
+          "id_": "Penghapus",
+          "en": "eraser",
+          "pron": "e-rei-ser",
+          "emoji": "🖼️",
+          "img": "./img/school/31.png"
+        },
+        {
+          "id_": "Pensil",
+          "en": "pencil",
+          "pron": "pen-sel",
+          "emoji": "🖼️",
+          "img": "./img/school/32.png"
+        },
+        {
+          "id_": "Pensil warna",
+          "en": "colored pencil",
+          "pron": "ka-lerd pen-sel",
+          "emoji": "🖼️",
+          "img": "./img/school/33.png"
+        },
+        {
+          "id_": "Peta",
+          "en": "map",
+          "pron": "mep",
+          "emoji": "🖼️",
+          "img": "./img/school/34.png"
+        },
+        {
+          "id_": "Piala",
+          "en": "trophy",
+          "pron": "tro-fi",
+          "emoji": "🖼️",
+          "img": "./img/school/35.png"
+        },
+        {
+          "id_": "Rak buku",
+          "en": "bookshelf",
+          "pron": "buk-syelf",
+          "emoji": "🖼️",
+          "img": "./img/school/36.png"
+        },
+        {
+          "id_": "Rautan",
+          "en": "sharpener",
+          "pron": "syar-pe-ner",
+          "emoji": "🖼️",
+          "img": "./img/school/37.png"
+        },
+        {
+          "id_": "Spidol papan tulis",
+          "en": "whiteboard marker",
+          "pron": "wait-bord mar-ker",
+          "emoji": "🖼️",
+          "img": "./img/school/38.png"
+        },
+        {
+          "id_": "Stapler",
+          "en": "stapler",
+          "pron": "stei-pler",
+          "emoji": "🖼️",
+          "img": "./img/school/39.png"
+        },
+        {
+          "id_": "Tas",
+          "en": "bag",
+          "pron": "beg",
+          "emoji": "🖼️",
+          "img": "./img/school/40.png"
+        },
+        {
+          "id_": "Tiang bendera",
+          "en": "flagpole",
+          "pron": "fleg-poul",
+          "emoji": "🖼️",
+          "img": "./img/school/41.png"
+        },
+        {
+          "id_": "Tinta",
+          "en": "ink",
+          "pron": "ingk",
+          "emoji": "🖼️",
+          "img": "./img/school/42.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 4",
+      "title": "Food and Drink",
+      "title_id": "Makanan dan Minuman",
+      "bg_img": "./img/food/0.png",
+      "color": "#E67E22",
+      "words": [
+        {
+          "id_": "Air mineral",
+          "en": "mineral water",
+          "pron": "mi-ne-ral wa-der",
+          "emoji": "🖼️",
+          "img": "./img/food/1.png"
+        },
+        {
+          "id_": "Berondong Jagung",
+          "en": "popcorn",
+          "pron": "pap-korn",
+          "emoji": "🖼️",
+          "img": "./img/food/2.png"
+        },
+        {
+          "id_": "Bir",
+          "en": "beer",
+          "pron": "bir",
+          "emoji": "🖼️",
+          "img": "./img/food/3.png"
+        },
+        {
+          "id_": "Biskuit",
+          "en": "biscuit",
+          "pron": "bis-ket",
+          "emoji": "🖼️",
+          "img": "./img/food/4.png"
+        },
+        {
+          "id_": "Cokelat",
+          "en": "chocolate",
+          "pron": "cho-klet",
+          "emoji": "🖼️",
+          "img": "./img/food/5.png"
+        },
+        {
+          "id_": "Daging Ayam",
+          "en": "chicken meat",
+          "pron": "che-ken mit",
+          "emoji": "🖼️",
+          "img": "./img/food/6.png"
+        },
+        {
+          "id_": "Daging panggang",
+          "en": "roast",
+          "pron": "roust",
+          "emoji": "🖼️",
+          "img": "./img/food/7.png"
+        },
+        {
+          "id_": "Daging sapi",
+          "en": "beef",
+          "pron": "bif",
+          "emoji": "🖼️",
+          "img": "./img/food/8.png"
+        },
+        {
+          "id_": "Donat",
+          "en": "doughnut",
+          "pron": "dou-nat",
+          "emoji": "🖼️",
+          "img": "./img/food/9.png"
+        },
+        {
+          "id_": "Es krim",
+          "en": "ice cream",
+          "pron": "ais krim",
+          "emoji": "🖼️",
+          "img": "./img/food/10.png"
+        },
+        {
+          "id_": "Gandum",
+          "en": "wheat",
+          "pron": "wit",
+          "emoji": "🖼️",
+          "img": "./img/food/11.png"
+        },
+        {
+          "id_": "Garam",
+          "en": "salt",
+          "pron": "solt",
+          "emoji": "🖼️",
+          "img": "./img/food/12.png"
+        },
+        {
+          "id_": "Jus",
+          "en": "juice",
+          "pron": "jus",
+          "emoji": "🖼️",
+          "img": "./img/food/13.png"
+        },
+        {
+          "id_": "Kacang",
+          "en": "nut",
+          "pron": "nat",
+          "emoji": "🖼️",
+          "img": "./img/food/14.png"
+        },
+        {
+          "id_": "Kakao",
+          "en": "cocoa",
+          "pron": "kou-kou",
+          "emoji": "🖼️",
+          "img": "./img/food/15.png"
+        },
+        {
+          "id_": "Keju",
+          "en": "cheese",
+          "pron": "chis",
+          "emoji": "🖼️",
+          "img": "./img/food/16.png"
+        },
+        {
+          "id_": "Kembang gula",
+          "en": "cotton candy",
+          "pron": "kaden kendi",
+          "emoji": "🖼️",
+          "img": "./img/food/17.png"
+        },
+        {
+          "id_": "Keripik",
+          "en": "chips",
+          "pron": "cheps",
+          "emoji": "🖼️",
+          "img": "./img/food/18.png"
+        },
+        {
+          "id_": "Kopi",
+          "en": "coffee",
+          "pron": "ko-fi",
+          "emoji": "🖼️",
+          "img": "./img/food/19.png"
+        },
+        {
+          "id_": "Krim kocok",
+          "en": "whip cream",
+          "pron": "wip krim",
+          "emoji": "🖼️",
+          "img": "./img/food/20.png"
+        },
+        {
+          "id_": "Kue",
+          "en": "cake",
+          "pron": "keik",
+          "emoji": "🖼️",
+          "img": "./img/food/21.png"
+        },
+        {
+          "id_": "Kue kering",
+          "en": "cookie",
+          "pron": "ku-ki",
+          "emoji": "🖼️",
+          "img": "./img/food/22.png"
+        },
+        {
+          "id_": "Limun",
+          "en": "lemonade",
+          "pron": "le-me-neid",
+          "emoji": "🖼️",
+          "img": "./img/food/23.png"
+        },
+        {
+          "id_": "Mayones",
+          "en": "mayonnaise",
+          "pron": "mei-o-neis",
+          "emoji": "🖼️",
+          "img": "./img/food/24.png"
+        },
+        {
+          "id_": "Mie",
+          "en": "noodle",
+          "pron": "niu-del",
+          "emoji": "🖼️",
+          "img": "./img/food/25.png"
+        },
+        {
+          "id_": "Nasi",
+          "en": "rice",
+          "pron": "rais",
+          "emoji": "🖼️",
+          "img": "./img/food/26.png"
+        },
+        {
+          "id_": "Pai",
+          "en": "pie",
+          "pron": "pai",
+          "emoji": "🖼️",
+          "img": "./img/food/27.png"
+        },
+        {
+          "id_": "Panekuk",
+          "en": "pancake",
+          "pron": "pen-keik",
+          "emoji": "🖼️",
+          "img": "./img/food/28.png"
+        },
+        {
+          "id_": "Permen",
+          "en": "candy",
+          "pron": "ken-di",
+          "emoji": "🖼️",
+          "img": "./img/food/29.png"
+        },
+        {
+          "id_": "Puding",
+          "en": "pudding",
+          "pron": "pu-ding",
+          "emoji": "🖼️",
+          "img": "./img/food/30.png"
+        },
+        {
+          "id_": "Roti",
+          "en": "bread",
+          "pron": "bred",
+          "emoji": "🖼️",
+          "img": "./img/food/31.png"
+        },
+        {
+          "id_": "Saus",
+          "en": "sauce",
+          "pron": "sos",
+          "emoji": "🖼️",
+          "img": "./img/food/32.png"
+        },
+        {
+          "id_": "Saus tomat",
+          "en": "ketchup",
+          "pron": "ke-chap",
+          "emoji": "🖼️",
+          "img": "./img/food/33.png"
+        },
+        {
+          "id_": "Soda",
+          "en": "soda",
+          "pron": "sou-da",
+          "emoji": "🖼️",
+          "img": "./img/food/34.png"
+        },
+        {
+          "id_": "Sosis",
+          "en": "sausage",
+          "pron": "so-sic",
+          "emoji": "🖼️",
+          "img": "./img/food/35.png"
+        },
+        {
+          "id_": "Sup",
+          "en": "soup",
+          "pron": "sup",
+          "emoji": "🖼️",
+          "img": "./img/food/36.png"
+        },
+        {
+          "id_": "Susu",
+          "en": "milk",
+          "pron": "milk",
+          "emoji": "🖼️",
+          "img": "./img/food/37.png"
+        },
+        {
+          "id_": "Susu kocok",
+          "en": "milk shake",
+          "pron": "milk sye-ik",
+          "emoji": "🖼️",
+          "img": "./img/food/38.png"
+        },
+        {
+          "id_": "Teh",
+          "en": "tea",
+          "pron": "ti",
+          "emoji": "🖼️",
+          "img": "./img/food/39.png"
+        },
+        {
+          "id_": "Telur",
+          "en": "egg",
+          "pron": "eg",
+          "emoji": "🖼️",
+          "img": "./img/food/40.png"
+        },
+        {
+          "id_": "Tepung",
+          "en": "flour",
+          "pron": "flau-er",
+          "emoji": "🖼️",
+          "img": "./img/food/41.png"
+        },
+        {
+          "id_": "Wafel",
+          "en": "waffles",
+          "pron": "wa-fels",
+          "emoji": "🖼️",
+          "img": "./img/food/42.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 5",
+      "title": "Animals",
+      "title_id": "Hewan",
+      "bg_img": "./img/animals/0.png",
+      "color": "#27AE60",
+      "words": [
+        {
+          "id_": "Angsa",
+          "en": "swan",
+          "pron": "swan",
+          "emoji": "🖼️",
+          "img": "./img/animals/1.png"
+        },
+        {
+          "id_": "Anjing",
+          "en": "dog",
+          "pron": "dog",
+          "emoji": "🖼️",
+          "img": "./img/animals/2.png"
+        },
+        {
+          "id_": "Anjing laut",
+          "en": "walrus",
+          "pron": "wol-res",
+          "emoji": "🖼️",
+          "img": "./img/animals/3.png"
+        },
+        {
+          "id_": "Ayam",
+          "en": "chicken",
+          "pron": "chi-ken",
+          "emoji": "🖼️",
+          "img": "./img/animals/4.png"
+        },
+        {
+          "id_": "Ayam betina",
+          "en": "hen",
+          "pron": "hen",
+          "emoji": "🖼️",
+          "img": "./img/animals/5.png"
+        },
+        {
+          "id_": "Ayam jantan",
+          "en": "rooster",
+          "pron": "rus-ter",
+          "emoji": "🖼️",
+          "img": "./img/animals/6.png"
+        },
+        {
+          "id_": "Babi",
+          "en": "pig",
+          "pron": "pig",
+          "emoji": "🖼️",
+          "img": "./img/animals/7.png"
+        },
+        {
+          "id_": "Babi hutan",
+          "en": "wild boar",
+          "pron": "waild bor",
+          "emoji": "🖼️",
+          "img": "./img/animals/8.png"
+        },
+        {
+          "id_": "Badak",
+          "en": "rhinoceros",
+          "pron": "rai-no-se-res",
+          "emoji": "🖼️",
+          "img": "./img/animals/9.png"
+        },
+        {
+          "id_": "Bangau",
+          "en": "heron",
+          "pron": "he-ren",
+          "emoji": "🖼️",
+          "img": "./img/animals/10.png"
+        },
+        {
+          "id_": "Banteng",
+          "en": "bull",
+          "pron": "bul",
+          "emoji": "🖼️",
+          "img": "./img/animals/11.png"
+        },
+        {
+          "id_": "Bebek",
+          "en": "duck",
+          "pron": "dak",
+          "emoji": "🖼️",
+          "img": "./img/animals/12.png"
+        },
+        {
+          "id_": "Belalang",
+          "en": "grasshopper",
+          "pron": "gres-ho-per",
+          "emoji": "🖼️",
+          "img": "./img/animals/13.png"
+        },
+        {
+          "id_": "Belut",
+          "en": "eel",
+          "pron": "il",
+          "emoji": "🖼️",
+          "img": "./img/animals/14.png"
+        },
+        {
+          "id_": "Berang-berang",
+          "en": "otter",
+          "pron": "a-der",
+          "emoji": "🖼️",
+          "img": "./img/animals/15.png"
+        },
+        {
+          "id_": "Beruang",
+          "en": "bear",
+          "pron": "ber",
+          "emoji": "🖼️",
+          "img": "./img/animals/16.png"
+        },
+        {
+          "id_": "Beruang kutub",
+          "en": "polar bear",
+          "pron": "pou-lar ber",
+          "emoji": "🖼️",
+          "img": "./img/animals/17.png"
+        },
+        {
+          "id_": "Bintang laut",
+          "en": "starfish",
+          "pron": "star-fish",
+          "emoji": "🖼️",
+          "img": "./img/animals/18.png"
+        },
+        {
+          "id_": "Buaya",
+          "en": "crocodile",
+          "pron": "kra-ke-dail",
+          "emoji": "🖼️",
+          "img": "./img/animals/19.png"
+        },
+        {
+          "id_": "Bunglon",
+          "en": "chameleon",
+          "pron": "ka-mi-li-en",
+          "emoji": "🖼️",
+          "img": "./img/animals/20.png"
+        },
+        {
+          "id_": "Burung",
+          "en": "bird",
+          "pron": "berd",
+          "emoji": "🖼️",
+          "img": "./img/animals/21.png"
+        },
+        {
+          "id_": "Burung hantu",
+          "en": "owl",
+          "pron": "aul",
+          "emoji": "🖼️",
+          "img": "./img/animals/22.png"
+        },
+        {
+          "id_": "Burung unta",
+          "en": "ostrich",
+          "pron": "os-trich",
+          "emoji": "🖼️",
+          "img": "./img/animals/23.png"
+        },
+        {
+          "id_": "Cacing",
+          "en": "worm",
+          "pron": "werm",
+          "emoji": "🖼️",
+          "img": "./img/animals/24.png"
+        },
+        {
+          "id_": "Capung",
+          "en": "dragonfly",
+          "pron": "dra-gen-flai",
+          "emoji": "🖼️",
+          "img": "./img/animals/25.png"
+        },
+        {
+          "id_": "Cumi-cumi",
+          "en": "squid",
+          "pron": "sku-id",
+          "emoji": "🖼️",
+          "img": "./img/animals/26.png"
+        },
+        {
+          "id_": "Domba",
+          "en": "sheep",
+          "pron": "syip",
+          "emoji": "🖼️",
+          "img": "./img/animals/27.png"
+        },
+        {
+          "id_": "Elang",
+          "en": "eagle",
+          "pron": "i-gel",
+          "emoji": "🖼️",
+          "img": "./img/animals/28.png"
+        },
+        {
+          "id_": "Flamingo",
+          "en": "flamingo",
+          "pron": "fla-ming-gou",
+          "emoji": "🖼️",
+          "img": "./img/animals/29.png"
+        },
+        {
+          "id_": "Gajah",
+          "en": "elephant",
+          "pron": "e-le-fent",
+          "emoji": "🖼️",
+          "img": "./img/animals/30.png"
+        },
+        {
+          "id_": "Gurita",
+          "en": "octopus",
+          "pron": "ak-to-pes",
+          "emoji": "🖼️",
+          "img": "./img/animals/31.png"
+        },
+        {
+          "id_": "Harimau",
+          "en": "tiger",
+          "pron": "tai-ger",
+          "emoji": "🖼️",
+          "img": "./img/animals/32.png"
+        },
+        {
+          "id_": "Hiu",
+          "en": "shark",
+          "pron": "shark",
+          "emoji": "🖼️",
+          "img": "./img/animals/33.png"
+        },
+        {
+          "id_": "Ikan",
+          "en": "fish",
+          "pron": "fish",
+          "emoji": "🖼️",
+          "img": "./img/animals/34.png"
+        },
+        {
+          "id_": "Ikan lele",
+          "en": "catfish",
+          "pron": "ket-fish",
+          "emoji": "🖼️",
+          "img": "./img/animals/35.png"
+        },
+        {
+          "id_": "Ikan pari",
+          "en": "stingray",
+          "pron": "sting-rei",
+          "emoji": "🖼️",
+          "img": "./img/animals/36.png"
+        },
+        {
+          "id_": "Jangkrik",
+          "en": "cricket",
+          "pron": "kri-kit",
+          "emoji": "🖼️",
+          "img": "./img/animals/37.png"
+        },
+        {
+          "id_": "Jerapah",
+          "en": "giraffe",
+          "pron": "je-raf",
+          "emoji": "🖼️",
+          "img": "./img/animals/38.png"
+        },
+        {
+          "id_": "Kadal",
+          "en": "lizard",
+          "pron": "li-zerd",
+          "emoji": "🖼️",
+          "img": "./img/animals/39.png"
+        },
+        {
+          "id_": "Kalajengking",
+          "en": "scorpion",
+          "pron": "skor-pi-en",
+          "emoji": "🖼️",
+          "img": "./img/animals/40.png"
+        },
+        {
+          "id_": "Kalkun",
+          "en": "turkey",
+          "pron": "ter-ki",
+          "emoji": "🖼️",
+          "img": "./img/animals/41.png"
+        },
+        {
+          "id_": "Kambing",
+          "en": "goat",
+          "pron": "gout",
+          "emoji": "🖼️",
+          "img": "./img/animals/42.png"
+        },
+        {
+          "id_": "Kangguru",
+          "en": "kangaroo",
+          "pron": "keng-ge-ru",
+          "emoji": "🖼️",
+          "img": "./img/animals/43.png"
+        },
+        {
+          "id_": "Katak",
+          "en": "frog",
+          "pron": "frog",
+          "emoji": "🖼️",
+          "img": "./img/animals/44.png"
+        },
+        {
+          "id_": "Kecoa",
+          "en": "cockroach",
+          "pron": "kok-rouch",
+          "emoji": "🖼️",
+          "img": "./img/animals/45.png"
+        },
+        {
+          "id_": "Keledai",
+          "en": "donkey",
+          "pron": "dong-ki",
+          "emoji": "🖼️",
+          "img": "./img/animals/46.png"
+        },
+        {
+          "id_": "Kelelawar",
+          "en": "bat",
+          "pron": "bat",
+          "emoji": "🖼️",
+          "img": "./img/animals/47.png"
+        },
+        {
+          "id_": "Kelinci",
+          "en": "rabbit",
+          "pron": "ra-bit",
+          "emoji": "🖼️",
+          "img": "./img/animals/48.png"
+        },
+        {
+          "id_": "Kepik",
+          "en": "ladybug",
+          "pron": "lei-di-bag",
+          "emoji": "🖼️",
+          "img": "./img/animals/49.png"
+        },
+        {
+          "id_": "Kepiting",
+          "en": "crab",
+          "pron": "krab",
+          "emoji": "🖼️",
+          "img": "./img/animals/50.png"
+        },
+        {
+          "id_": "Kerang",
+          "en": "clam",
+          "pron": "klem",
+          "emoji": "🖼️",
+          "img": "./img/animals/51.png"
+        },
+        {
+          "id_": "Kerbau",
+          "en": "buffalo",
+          "pron": "ba-fe-lo",
+          "emoji": "🖼️",
+          "img": "./img/animals/52.png"
+        },
+        {
+          "id_": "Kijang",
+          "en": "antelope",
+          "pron": "in-te-lop",
+          "emoji": "🖼️",
+          "img": "./img/animals/53.png"
+        },
+        {
+          "id_": "Koala",
+          "en": "koala",
+          "pron": "kou-a-la",
+          "emoji": "🖼️",
+          "img": "./img/animals/54.png"
+        },
+        {
+          "id_": "Komodo",
+          "en": "komodo dragon",
+          "pron": "ko-mo-dou dra-gen",
+          "emoji": "🖼️",
+          "img": "./img/animals/55.png"
+        },
+        {
+          "id_": "Kucing",
+          "en": "cat",
+          "pron": "ket",
+          "emoji": "🖼️",
+          "img": "./img/animals/56.png"
+        },
+        {
+          "id_": "Kuda",
+          "en": "horse",
+          "pron": "hors",
+          "emoji": "🖼️",
+          "img": "./img/animals/57.png"
+        },
+        {
+          "id_": "Kuda laut",
+          "en": "seahorse",
+          "pron": "si-hors",
+          "emoji": "🖼️",
+          "img": "./img/animals/58.png"
+        },
+        {
+          "id_": "Kuda nil",
+          "en": "hippopotamus",
+          "pron": "hip-po-pa-de-mes",
+          "emoji": "🖼️",
+          "img": "./img/animals/59.png"
+        },
+        {
+          "id_": "Kumbang",
+          "en": "beetle",
+          "pron": "bi-del",
+          "emoji": "🖼️",
+          "img": "./img/animals/60.png"
+        },
+        {
+          "id_": "Kungkang",
+          "en": "sloth",
+          "pron": "slof",
+          "emoji": "🖼️",
+          "img": "./img/animals/61.png"
+        },
+        {
+          "id_": "Kupu-kupu",
+          "en": "butterfly",
+          "pron": "ba-der-flai",
+          "emoji": "🖼️",
+          "img": "./img/animals/62.png"
+        },
+        {
+          "id_": "Kura-kura",
+          "en": "turtle",
+          "pron": "tar-tel",
+          "emoji": "🖼️",
+          "img": "./img/animals/63.png"
+        },
+        {
+          "id_": "Laba-laba",
+          "en": "spider",
+          "pron": "spai-der",
+          "emoji": "🖼️",
+          "img": "./img/animals/64.png"
+        },
+        {
+          "id_": "Lalat",
+          "en": "fly",
+          "pron": "flai",
+          "emoji": "🖼️",
+          "img": "./img/animals/65.png"
+        },
+        {
+          "id_": "Landak",
+          "en": "hedgehog",
+          "pron": "hej-hog",
+          "emoji": "🖼️",
+          "img": "./img/animals/66.png"
+        },
+        {
+          "id_": "Lebah",
+          "en": "bee",
+          "pron": "bi",
+          "emoji": "🖼️",
+          "img": "./img/animals/67.png"
+        },
+        {
+          "id_": "Lumba-lumba",
+          "en": "dolphin",
+          "pron": "dol-fin",
+          "emoji": "🖼️",
+          "img": "./img/animals/68.png"
+        },
+        {
+          "id_": "Macan tutul",
+          "en": "leopard",
+          "pron": "le-pard",
+          "emoji": "🖼️",
+          "img": "./img/animals/69.png"
+        },
+        {
+          "id_": "Marmut",
+          "en": "guinea pig",
+          "pron": "gi-ni pig",
+          "emoji": "🖼️",
+          "img": "./img/animals/70.png"
+        },
+        {
+          "id_": "Monyet",
+          "en": "monkey",
+          "pron": "mang-ki",
+          "emoji": "🖼️",
+          "img": "./img/animals/71.png"
+        },
+        {
+          "id_": "Musang",
+          "en": "civet",
+          "pron": "si-vet",
+          "emoji": "🖼️",
+          "img": "./img/animals/72.png"
+        },
+        {
+          "id_": "Nyamuk",
+          "en": "mosquito",
+          "pron": "mes-ki-dou",
+          "emoji": "🖼️",
+          "img": "./img/animals/73.png"
+        },
+        {
+          "id_": "Panda",
+          "en": "panda",
+          "pron": "pen-da",
+          "emoji": "🖼️",
+          "img": "./img/animals/74.png"
+        },
+        {
+          "id_": "Paus",
+          "en": "whale",
+          "pron": "weil",
+          "emoji": "🖼️",
+          "img": "./img/animals/75.png"
+        },
+        {
+          "id_": "Penyu",
+          "en": "sea turtle",
+          "pron": "si ter-tel",
+          "emoji": "🖼️",
+          "img": "./img/animals/76.png"
+        },
+        {
+          "id_": "Pinguin",
+          "en": "penguin",
+          "pron": "peng-gwen",
+          "emoji": "🖼️",
+          "img": "./img/animals/77.png"
+        },
+        {
+          "id_": "Rubah",
+          "en": "fox",
+          "pron": "foks",
+          "emoji": "🖼️",
+          "img": "./img/animals/78.png"
+        },
+        {
+          "id_": "Rusa",
+          "en": "deer",
+          "pron": "dir",
+          "emoji": "🖼️",
+          "img": "./img/animals/79.png"
+        },
+        {
+          "id_": "Sapi",
+          "en": "cow",
+          "pron": "kau",
+          "emoji": "🖼️",
+          "img": "./img/animals/80.png"
+        },
+        {
+          "id_": "Semut",
+          "en": "ant",
+          "pron": "ent",
+          "emoji": "🖼️",
+          "img": "./img/animals/81.png"
+        },
+        {
+          "id_": "Serigala",
+          "en": "wolf",
+          "pron": "wulf",
+          "emoji": "🖼️",
+          "img": "./img/animals/82.png"
+        },
+        {
+          "id_": "Sigung",
+          "en": "skunk",
+          "pron": "skangk",
+          "emoji": "🖼️",
+          "img": "./img/animals/83.png"
+        },
+        {
+          "id_": "Singa",
+          "en": "lion",
+          "pron": "lai-en",
+          "emoji": "🖼️",
+          "img": "./img/animals/84.png"
+        },
+        {
+          "id_": "Siput",
+          "en": "snail",
+          "pron": "sneil",
+          "emoji": "🖼️",
+          "img": "./img/animals/85.png"
+        },
+        {
+          "id_": "Sotong",
+          "en": "cuttlefish",
+          "pron": "ka-del-fish",
+          "emoji": "🖼️",
+          "img": "./img/animals/86.png"
+        },
+        {
+          "id_": "Tawon",
+          "en": "wasp",
+          "pron": "wasp",
+          "emoji": "🖼️",
+          "img": "./img/animals/87.png"
+        },
+        {
+          "id_": "Tikus",
+          "en": "mouse",
+          "pron": "maus",
+          "emoji": "🖼️",
+          "img": "./img/animals/88.png"
+        },
+        {
+          "id_": "Trenggiling",
+          "en": "pangolin",
+          "pron": "peng-go-lin",
+          "emoji": "🖼️",
+          "img": "./img/animals/89.png"
+        },
+        {
+          "id_": "Tupai",
+          "en": "squirrel",
+          "pron": "skwi-rel",
+          "emoji": "🖼️",
+          "img": "./img/animals/90.png"
+        },
+        {
+          "id_": "Ubur-ubur",
+          "en": "jellyfish",
+          "pron": "je-li-fish",
+          "emoji": "🖼️",
+          "img": "./img/animals/91.png"
+        },
+        {
+          "id_": "Udang",
+          "en": "shrimp",
+          "pron": "shrim",
+          "emoji": "🖼️",
+          "img": "./img/animals/92.png"
+        },
+        {
+          "id_": "Ular",
+          "en": "snake",
+          "pron": "sneik",
+          "emoji": "🖼️",
+          "img": "./img/animals/93.png"
+        },
+        {
+          "id_": "Ulat",
+          "en": "caterpillar",
+          "pron": "ka-der-pi-ler",
+          "emoji": "🖼️",
+          "img": "./img/animals/94.png"
+        },
+        {
+          "id_": "Unta",
+          "en": "camel",
+          "pron": "ke-mel",
+          "emoji": "🖼️",
+          "img": "./img/animals/95.png"
+        },
+        {
+          "id_": "Zebra",
+          "en": "zebra",
+          "pron": "zi-bra",
+          "emoji": "🖼️",
+          "img": "./img/animals/96.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 6",
+      "title": "Transportation",
+      "title_id": "Transportasi",
+      "bg_img": "./img/transportation/0.png",
+      "color": "#2980B9",
+      "words": [
+        {
+          "id_": "Alat pemadat jalan",
+          "en": "road roller",
+          "pron": "roud rou-ler",
+          "emoji": "🖼️",
+          "img": "./img/transportation/1.png"
+        },
+        {
+          "id_": "Ambulans",
+          "en": "ambulance",
+          "pron": "em-bye-lens",
+          "emoji": "🖼️",
+          "img": "./img/transportation/2.png"
+        },
+        {
+          "id_": "Becak",
+          "en": "pedicab",
+          "pron": "pe-de-kab",
+          "emoji": "🖼️",
+          "img": "./img/transportation/3.png"
+        },
+        {
+          "id_": "Buldoser",
+          "en": "bulldozer",
+          "pron": "bul-dou-ser",
+          "emoji": "🖼️",
+          "img": "./img/transportation/4.png"
+        },
+        {
+          "id_": "Bus",
+          "en": "bus",
+          "pron": "bas",
+          "emoji": "🖼️",
+          "img": "./img/transportation/5.png"
+        },
+        {
+          "id_": "Bus sekolah",
+          "en": "school bus",
+          "pron": "skul bas",
+          "emoji": "🖼️",
+          "img": "./img/transportation/6.png"
+        },
+        {
+          "id_": "Bus tingkat",
+          "en": "double-decker bus",
+          "pron": "da-bel de-ker bas",
+          "emoji": "🖼️",
+          "img": "./img/transportation/7.png"
+        },
+        {
+          "id_": "Delman",
+          "en": "carriage",
+          "pron": "ke-ric",
+          "emoji": "🖼️",
+          "img": "./img/transportation/8.png"
+        },
+        {
+          "id_": "Ekskavator",
+          "en": "excavator",
+          "pron": "eks-ka-vei-der",
+          "emoji": "🖼️",
+          "img": "./img/transportation/9.png"
+        },
+        {
+          "id_": "Gerobak",
+          "en": "cart",
+          "pron": "kart",
+          "emoji": "🖼️",
+          "img": "./img/transportation/10.png"
+        },
+        {
+          "id_": "Kereta api",
+          "en": "train",
+          "pron": "trein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/11.png"
+        },
+        {
+          "id_": "Kereta gantung",
+          "en": "cable car",
+          "pron": "kei-bel kar",
+          "emoji": "🖼️",
+          "img": "./img/transportation/12.png"
+        },
+        {
+          "id_": "Kereta uap",
+          "en": "steam train",
+          "pron": "stim trein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/13.png"
+        },
+        {
+          "id_": "Kursi Roda",
+          "en": "wheelchair",
+          "pron": "wil-che-ir",
+          "emoji": "🖼️",
+          "img": "./img/transportation/14.png"
+        },
+        {
+          "id_": "Mobil",
+          "en": "car",
+          "pron": "kar",
+          "emoji": "🖼️",
+          "img": "./img/transportation/15.png"
+        },
+        {
+          "id_": "Mobil atap terbuka",
+          "en": "convertible car",
+          "pron": "ken-ver-de-bel kar",
+          "emoji": "🖼️",
+          "img": "./img/transportation/16.png"
+        },
+        {
+          "id_": "Mobil bak terbuka",
+          "en": "pickup truck",
+          "pron": "pi-kap trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/17.png"
+        },
+        {
+          "id_": "Mobil derek",
+          "en": "tow truck",
+          "pron": "tou trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/18.png"
+        },
+        {
+          "id_": "Mobil golf",
+          "en": "golf cart",
+          "pron": "golf kart",
+          "emoji": "🖼️",
+          "img": "./img/transportation/19.png"
+        },
+        {
+          "id_": "Mobil patroli",
+          "en": "patrol car",
+          "pron": "pe-troul kar",
+          "emoji": "🖼️",
+          "img": "./img/transportation/20.png"
+        },
+        {
+          "id_": "Mobil pemadam",
+          "en": "fire truck",
+          "pron": "fai-er trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/21.png"
+        },
+        {
+          "id_": "Mobil salju",
+          "en": "snowmobile",
+          "pron": "snou-mo-bil",
+          "emoji": "🖼️",
+          "img": "./img/transportation/22.png"
+        },
+        {
+          "id_": "Papan luncur",
+          "en": "skateboard",
+          "pron": "ske-it-bord",
+          "emoji": "🖼️",
+          "img": "./img/transportation/23.png"
+        },
+        {
+          "id_": "Sepeda",
+          "en": "bicycle",
+          "pron": "bai-si-kel",
+          "emoji": "🖼️",
+          "img": "./img/transportation/24.png"
+        },
+        {
+          "id_": "Sepeda motor",
+          "en": "motorcycle",
+          "pron": "mou-dor-sai-kel",
+          "emoji": "🖼️",
+          "img": "./img/transportation/25.png"
+        },
+        {
+          "id_": "Sepeda roda satu",
+          "en": "unicycle",
+          "pron": "yu-ni-sai-kel",
+          "emoji": "🖼️",
+          "img": "./img/transportation/26.png"
+        },
+        {
+          "id_": "Sepeda roda tiga",
+          "en": "tricycle",
+          "pron": "trai-sai-kel",
+          "emoji": "🖼️",
+          "img": "./img/transportation/27.png"
+        },
+        {
+          "id_": "Skuter",
+          "en": "scooter",
+          "pron": "sku-der",
+          "emoji": "🖼️",
+          "img": "./img/transportation/28.png"
+        },
+        {
+          "id_": "Tank",
+          "en": "tank",
+          "pron": "tengk",
+          "emoji": "🖼️",
+          "img": "./img/transportation/29.png"
+        },
+        {
+          "id_": "Traktor",
+          "en": "tractor",
+          "pron": "trak-ter",
+          "emoji": "🖼️",
+          "img": "./img/transportation/30.png"
+        },
+        {
+          "id_": "Truk bahan bakar",
+          "en": "fuel truck",
+          "pron": "fyul trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/31.png"
+        },
+        {
+          "id_": "Truk Molen",
+          "en": "mixer truck",
+          "pron": "mik-ser trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/32.png"
+        },
+        {
+          "id_": "Truk pendingin",
+          "en": "refrigerated truck",
+          "pron": "re-fri-je-rei-ted trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/33.png"
+        },
+        {
+          "id_": "Truk pengiriman",
+          "en": "delivery truck",
+          "pron": "de-li-ve-ri trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/34.png"
+        },
+        {
+          "id_": "Truk sampah",
+          "en": "garbage truck",
+          "pron": "gar-bij trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/35.png"
+        },
+        {
+          "id_": "Truk tangki",
+          "en": "tanker truck",
+          "pron": "ten-ker trak",
+          "emoji": "🖼️",
+          "img": "./img/transportation/36.png"
+        },
+        {
+          "id_": "Jet ski",
+          "en": "jet ski",
+          "pron": "jet ski",
+          "emoji": "🖼️",
+          "img": "./img/transportation/37.png"
+        },
+        {
+          "id_": "Kapal",
+          "en": "ship",
+          "pron": "syip",
+          "emoji": "🖼️",
+          "img": "./img/transportation/38.png"
+        },
+        {
+          "id_": "Kapal bantalan udara",
+          "en": "hovercraft",
+          "pron": "ho-ver-kraft",
+          "emoji": "🖼️",
+          "img": "./img/transportation/39.png"
+        },
+        {
+          "id_": "Kapal kargo",
+          "en": "cargo ship",
+          "pron": "kar-gou syip",
+          "emoji": "🖼️",
+          "img": "./img/transportation/40.png"
+        },
+        {
+          "id_": "Kapal perang",
+          "en": "warship",
+          "pron": "wor-syip",
+          "emoji": "🖼️",
+          "img": "./img/transportation/41.png"
+        },
+        {
+          "id_": "Kapal pesiar",
+          "en": "yacht",
+          "pron": "yat",
+          "emoji": "🖼️",
+          "img": "./img/transportation/42.png"
+        },
+        {
+          "id_": "Kapal selam",
+          "en": "submarine",
+          "pron": "seb-me-rin",
+          "emoji": "🖼️",
+          "img": "./img/transportation/43.png"
+        },
+        {
+          "id_": "Perahu",
+          "en": "boat",
+          "pron": "bout",
+          "emoji": "🖼️",
+          "img": "./img/transportation/44.png"
+        },
+        {
+          "id_": "Perahu cepat",
+          "en": "speedboat",
+          "pron": "spid-bout",
+          "emoji": "🖼️",
+          "img": "./img/transportation/45.png"
+        },
+        {
+          "id_": "Perahu karet",
+          "en": "rubber boat",
+          "pron": "rab-ber bout",
+          "emoji": "🖼️",
+          "img": "./img/transportation/46.png"
+        },
+        {
+          "id_": "Sampan",
+          "en": "canoe",
+          "pron": "ke-nu",
+          "emoji": "🖼️",
+          "img": "./img/transportation/47.png"
+        },
+        {
+          "id_": "Sekoci",
+          "en": "lifeboat",
+          "pron": "laif-bout",
+          "emoji": "🖼️",
+          "img": "./img/transportation/48.png"
+        },
+        {
+          "id_": "Balon udara",
+          "en": "hot air balloon",
+          "pron": "hot er ba-lun",
+          "emoji": "🖼️",
+          "img": "./img/transportation/49.png"
+        },
+        {
+          "id_": "Helikopter",
+          "en": "helicopter",
+          "pron": "he-li-kop-ter",
+          "emoji": "🖼️",
+          "img": "./img/transportation/50.png"
+        },
+        {
+          "id_": "Jet",
+          "en": "jet",
+          "pron": "jet",
+          "emoji": "🖼️",
+          "img": "./img/transportation/51.png"
+        },
+        {
+          "id_": "Kapal udara",
+          "en": "blimp",
+          "pron": "blimp",
+          "emoji": "🖼️",
+          "img": "./img/transportation/52.png"
+        },
+        {
+          "id_": "Layang gantung",
+          "en": "hang glider",
+          "pron": "heng glai-der",
+          "emoji": "🖼️",
+          "img": "./img/transportation/53.png"
+        },
+        {
+          "id_": "Paralayang",
+          "en": "paraglider",
+          "pron": "pa-ra-glai-der",
+          "emoji": "🖼️",
+          "img": "./img/transportation/54.png"
+        },
+        {
+          "id_": "Parasut",
+          "en": "parachute",
+          "pron": "pe-re-syut",
+          "emoji": "🖼️",
+          "img": "./img/transportation/55.png"
+        },
+        {
+          "id_": "Pesawat",
+          "en": "airplane",
+          "pron": "er-plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/56.png"
+        },
+        {
+          "id_": "Pesawat dua sayap",
+          "en": "biplane",
+          "pron": "bai-plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/57.png"
+        },
+        {
+          "id_": "Pesawat layang",
+          "en": "glider",
+          "pron": "glai-der",
+          "emoji": "🖼️",
+          "img": "./img/transportation/58.png"
+        },
+        {
+          "id_": "Pesawat nirawak",
+          "en": "drone",
+          "pron": "droun",
+          "emoji": "🖼️",
+          "img": "./img/transportation/59.png"
+        },
+        {
+          "id_": "Pesawat pengebom",
+          "en": "bomber plane",
+          "pron": "bom-er plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/60.png"
+        },
+        {
+          "id_": "Pesawat satu sayap",
+          "en": "monoplane",
+          "pron": "mo-no-plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/61.png"
+        },
+        {
+          "id_": "Pesawat tempur",
+          "en": "fighter jet",
+          "pron": "fai-ter jet",
+          "emoji": "🖼️",
+          "img": "./img/transportation/62.png"
+        },
+        {
+          "id_": "Pesawat tiga sayap",
+          "en": "triplane",
+          "pron": "trai-plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/63.png"
+        },
+        {
+          "id_": "Pesawat ulang-alik",
+          "en": "space shuttle",
+          "pron": "speis sya-tel",
+          "emoji": "🖼️",
+          "img": "./img/transportation/64.png"
+        },
+        {
+          "id_": "Pesawat amfibi",
+          "en": "sea plane",
+          "pron": "si plein",
+          "emoji": "🖼️",
+          "img": "./img/transportation/65.png"
+        },
+        {
+          "id_": "Roket",
+          "en": "rocket",
+          "pron": "ro-ket",
+          "emoji": "🖼️",
+          "img": "./img/transportation/66.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 7",
+      "title": "Profession",
+      "title_id": "Profesi",
+      "bg_img": "./img/profession/0.png",
+      "color": "#8E44AD",
+      "words": [
+        {
+          "id_": "Arsitek",
+          "en": "architect",
+          "pron": "ar-ki-tect",
+          "emoji": "🖼️",
+          "img": "./img/profession/1.png"
+        },
+        {
+          "id_": "Astronot",
+          "en": "astronaut",
+          "pron": "as-tro-not",
+          "emoji": "🖼️",
+          "img": "./img/profession/2.png"
+        },
+        {
+          "id_": "Atletik",
+          "en": "athlete",
+          "pron": "af-lit",
+          "emoji": "🖼️",
+          "img": "./img/profession/3.png"
+        },
+        {
+          "id_": "Bidan",
+          "en": "midwife",
+          "pron": "mid-waif",
+          "emoji": "🖼️",
+          "img": "./img/profession/4.png"
+        },
+        {
+          "id_": "Biksu",
+          "en": "monk",
+          "pron": "mangk",
+          "emoji": "🖼️",
+          "img": "./img/profession/5.png"
+        },
+        {
+          "id_": "Bupati",
+          "en": "regent",
+          "pron": "ri-jent",
+          "emoji": "🖼️",
+          "img": "./img/profession/6.png"
+        },
+        {
+          "id_": "Detektif",
+          "en": "detective",
+          "pron": "de-tek-tev",
+          "emoji": "🖼️",
+          "img": "./img/profession/7.png"
+        },
+        {
+          "id_": "Dokter",
+          "en": "doctor",
+          "pron": "dok-ter",
+          "emoji": "🖼️",
+          "img": "./img/profession/8.png"
+        },
+        {
+          "id_": "Dosen",
+          "en": "lecturer",
+          "pron": "lek-cher",
+          "emoji": "🖼️",
+          "img": "./img/profession/9.png"
+        },
+        {
+          "id_": "Gubernur",
+          "en": "governor",
+          "pron": "ga-ver-ner",
+          "emoji": "🖼️",
+          "img": "./img/profession/10.png"
+        },
+        {
+          "id_": "Guru",
+          "en": "teacher",
+          "pron": "ti-cher",
+          "emoji": "🖼️",
+          "img": "./img/profession/11.png"
+        },
+        {
+          "id_": "Hakim",
+          "en": "judge",
+          "pron": "jach",
+          "emoji": "🖼️",
+          "img": "./img/profession/12.png"
+        },
+        {
+          "id_": "Kasir",
+          "en": "cashier",
+          "pron": "ke-syir",
+          "emoji": "🖼️",
+          "img": "./img/profession/13.png"
+        },
+        {
+          "id_": "Koki",
+          "en": "chef",
+          "pron": "syef",
+          "emoji": "🖼️",
+          "img": "./img/profession/14.png"
+        },
+        {
+          "id_": "Kurir",
+          "en": "courier",
+          "pron": "ku-ri-er",
+          "emoji": "🖼️",
+          "img": "./img/profession/15.png"
+        },
+        {
+          "id_": "Masinis",
+          "en": "train driver",
+          "pron": "trein drai-ver",
+          "emoji": "🖼️",
+          "img": "./img/profession/16.png"
+        },
+        {
+          "id_": "Mekanik",
+          "en": "mechanic",
+          "pron": "me-kei-nik",
+          "emoji": "🖼️",
+          "img": "./img/profession/17.png"
+        },
+        {
+          "id_": "Nahkoda",
+          "en": "skipper",
+          "pron": "ski-per",
+          "emoji": "🖼️",
+          "img": "./img/profession/18.png"
+        },
+        {
+          "id_": "Nelayan",
+          "en": "fisherman",
+          "pron": "fi-syer-men",
+          "emoji": "🖼️",
+          "img": "./img/profession/19.png"
+        },
+        {
+          "id_": "Pandai besi",
+          "en": "blacksmith",
+          "pron": "blak-smif",
+          "emoji": "🖼️",
+          "img": "./img/profession/20.png"
+        },
+        {
+          "id_": "Pelatih",
+          "en": "coach",
+          "pron": "kouch",
+          "emoji": "🖼️",
+          "img": "./img/profession/21.png"
+        },
+        {
+          "id_": "Pelayan",
+          "en": "waiter",
+          "pron": "wei-der",
+          "emoji": "🖼️",
+          "img": "./img/profession/22.png"
+        },
+        {
+          "id_": "Pelukis",
+          "en": "painter",
+          "pron": "pein-ter",
+          "emoji": "🖼️",
+          "img": "./img/profession/23.png"
+        },
+        {
+          "id_": "Penari",
+          "en": "dancer",
+          "pron": "den-ser",
+          "emoji": "🖼️",
+          "img": "./img/profession/24.png"
+        },
+        {
+          "id_": "Pendeta",
+          "en": "priest",
+          "pron": "prist",
+          "emoji": "🖼️",
+          "img": "./img/profession/25.png"
+        },
+        {
+          "id_": "Pengacara",
+          "en": "lawyer",
+          "pron": "loir",
+          "emoji": "🖼️",
+          "img": "./img/profession/26.png"
+        },
+        {
+          "id_": "Penjahit",
+          "en": "tailor",
+          "pron": "tei-ler",
+          "emoji": "🖼️",
+          "img": "./img/profession/27.png"
+        },
+        {
+          "id_": "Penyanyi",
+          "en": "singer",
+          "pron": "sing-er",
+          "emoji": "🖼️",
+          "img": "./img/profession/28.png"
+        },
+        {
+          "id_": "Pesulap",
+          "en": "magician",
+          "pron": "ma-ji-syen",
+          "emoji": "🖼️",
+          "img": "./img/profession/29.png"
+        },
+        {
+          "id_": "Petani",
+          "en": "farmer",
+          "pron": "far-mer",
+          "emoji": "🖼️",
+          "img": "./img/profession/30.png"
+        },
+        {
+          "id_": "Pilot",
+          "en": "pilot",
+          "pron": "pai-let",
+          "emoji": "🖼️",
+          "img": "./img/profession/31.png"
+        },
+        {
+          "id_": "Polisi",
+          "en": "police",
+          "pron": "pe-lis",
+          "emoji": "🖼️",
+          "img": "./img/profession/32.png"
+        },
+        {
+          "id_": "Pramugari",
+          "en": "flight attendant",
+          "pron": "flait e-ten-dent",
+          "emoji": "🖼️",
+          "img": "./img/profession/33.png"
+        },
+        {
+          "id_": "Presiden",
+          "en": "president",
+          "pron": "pre-si-dent",
+          "emoji": "🖼️",
+          "img": "./img/profession/34.png"
+        },
+        {
+          "id_": "Satpam",
+          "en": "security guard",
+          "pron": "se-kyu-ri-ti gard",
+          "emoji": "🖼️",
+          "img": "./img/profession/35.png"
+        },
+        {
+          "id_": "Sopir",
+          "en": "driver",
+          "pron": "drai-ver",
+          "emoji": "🖼️",
+          "img": "./img/profession/36.png"
+        },
+        {
+          "id_": "Suster",
+          "en": "nurse",
+          "pron": "ners",
+          "emoji": "🖼️",
+          "img": "./img/profession/37.png"
+        },
+        {
+          "id_": "Tentara",
+          "en": "soldier",
+          "pron": "sol-jer",
+          "emoji": "🖼️",
+          "img": "./img/profession/38.png"
+        },
+        {
+          "id_": "Tukang cukur",
+          "en": "barber",
+          "pron": "bar-ber",
+          "emoji": "🖼️",
+          "img": "./img/profession/39.png"
+        },
+        {
+          "id_": "Tukang kayu",
+          "en": "carpenter",
+          "pron": "kar-pen-ter",
+          "emoji": "🖼️",
+          "img": "./img/profession/40.png"
+        },
+        {
+          "id_": "Tukang las",
+          "en": "welder",
+          "pron": "wel-der",
+          "emoji": "🖼️",
+          "img": "./img/profession/41.png"
+        },
+        {
+          "id_": "Wartawan",
+          "en": "journalist",
+          "pron": "jer-na-lis",
+          "emoji": "🖼️",
+          "img": "./img/profession/42.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 8",
+      "title": "My Activity",
+      "title_id": "Aktivitasku",
+      "bg_img": "./img/activity/0.png",
+      "color": "#16A085",
+      "words": [
+        {
+          "id_": "Bangun tidur",
+          "en": "wake up",
+          "pron": "wei kap",
+          "emoji": "🖼️",
+          "img": "./img/activity/1.png"
+        },
+        {
+          "id_": "Belajar",
+          "en": "study",
+          "pron": "sta-di",
+          "emoji": "🖼️",
+          "img": "./img/activity/2.png"
+        },
+        {
+          "id_": "Berbicara",
+          "en": "speak",
+          "pron": "spik",
+          "emoji": "🖼️",
+          "img": "./img/activity/3.png"
+        },
+        {
+          "id_": "Berenang",
+          "en": "swim",
+          "pron": "swem",
+          "emoji": "🖼️",
+          "img": "./img/activity/4.png"
+        },
+        {
+          "id_": "Berlari",
+          "en": "run",
+          "pron": "ran",
+          "emoji": "🖼️",
+          "img": "./img/activity/5.png"
+        },
+        {
+          "id_": "Bermain",
+          "en": "play",
+          "pron": "plei",
+          "emoji": "🖼️",
+          "img": "./img/activity/6.png"
+        },
+        {
+          "id_": "Cuci tangan",
+          "en": "wash hand",
+          "pron": "wash hend",
+          "emoji": "🖼️",
+          "img": "./img/activity/7.png"
+        },
+        {
+          "id_": "Istirahat",
+          "en": "rest",
+          "pron": "rest",
+          "emoji": "🖼️",
+          "img": "./img/activity/8.png"
+        },
+        {
+          "id_": "Lompat",
+          "en": "jump",
+          "pron": "jamp",
+          "emoji": "🖼️",
+          "img": "./img/activity/9.png"
+        },
+        {
+          "id_": "Makan",
+          "en": "eat",
+          "pron": "it",
+          "emoji": "🖼️",
+          "img": "./img/activity/10.png"
+        },
+        {
+          "id_": "Mandi",
+          "en": "bathe",
+          "pron": "beit",
+          "emoji": "🖼️",
+          "img": "./img/activity/11.png"
+        },
+        {
+          "id_": "Melempar",
+          "en": "throw",
+          "pron": "trow",
+          "emoji": "🖼️",
+          "img": "./img/activity/12.png"
+        },
+        {
+          "id_": "Melihat",
+          "en": "see",
+          "pron": "si",
+          "emoji": "🖼️",
+          "img": "./img/activity/13.png"
+        },
+        {
+          "id_": "Melipat",
+          "en": "fold",
+          "pron": "fold",
+          "emoji": "🖼️",
+          "img": "./img/activity/14.png"
+        },
+        {
+          "id_": "Memasak",
+          "en": "cook",
+          "pron": "kuk",
+          "emoji": "🖼️",
+          "img": "./img/activity/15.png"
+        },
+        {
+          "id_": "Membaca",
+          "en": "read",
+          "pron": "rid",
+          "emoji": "🖼️",
+          "img": "./img/activity/16.png"
+        },
+        {
+          "id_": "Membakar",
+          "en": "burn",
+          "pron": "bern",
+          "emoji": "🖼️",
+          "img": "./img/activity/17.png"
+        },
+        {
+          "id_": "Membantu",
+          "en": "help",
+          "pron": "help",
+          "emoji": "🖼️",
+          "img": "./img/activity/18.png"
+        },
+        {
+          "id_": "Membersihkan",
+          "en": "clean",
+          "pron": "klin",
+          "emoji": "🖼️",
+          "img": "./img/activity/19.png"
+        },
+        {
+          "id_": "Memotong",
+          "en": "cut",
+          "pron": "kat",
+          "emoji": "🖼️",
+          "img": "./img/activity/20.png"
+        },
+        {
+          "id_": "Menabung",
+          "en": "save",
+          "pron": "sef",
+          "emoji": "🖼️",
+          "img": "./img/activity/21.png"
+        },
+        {
+          "id_": "Menanam",
+          "en": "plant",
+          "pron": "plent",
+          "emoji": "🖼️",
+          "img": "./img/activity/22.png"
+        },
+        {
+          "id_": "Menangis",
+          "en": "cry",
+          "pron": "krai",
+          "emoji": "🖼️",
+          "img": "./img/activity/23.png"
+        },
+        {
+          "id_": "Menari",
+          "en": "dance",
+          "pron": "dens",
+          "emoji": "🖼️",
+          "img": "./img/activity/24.png"
+        },
+        {
+          "id_": "Mencium",
+          "en": "kiss",
+          "pron": "kis",
+          "emoji": "🖼️",
+          "img": "./img/activity/25.png"
+        },
+        {
+          "id_": "Mencuci",
+          "en": "wash",
+          "pron": "wash",
+          "emoji": "🖼️",
+          "img": "./img/activity/26.png"
+        },
+        {
+          "id_": "Mencuci wajah",
+          "en": "wash face",
+          "pron": "wash feis",
+          "emoji": "🖼️",
+          "img": "./img/activity/27.png"
+        },
+        {
+          "id_": "Mendengar",
+          "en": "hear",
+          "pron": "hir",
+          "emoji": "🖼️",
+          "img": "./img/activity/28.png"
+        },
+        {
+          "id_": "Mendorong",
+          "en": "push",
+          "pron": "posh",
+          "emoji": "🖼️",
+          "img": "./img/activity/29.png"
+        },
+        {
+          "id_": "Menekan",
+          "en": "press",
+          "pron": "pres",
+          "emoji": "🖼️",
+          "img": "./img/activity/30.png"
+        },
+        {
+          "id_": "Menelepon",
+          "en": "call",
+          "pron": "kol",
+          "emoji": "🖼️",
+          "img": "./img/activity/31.png"
+        },
+        {
+          "id_": "Menendang",
+          "en": "kick",
+          "pron": "kik",
+          "emoji": "🖼️",
+          "img": "./img/activity/32.png"
+        },
+        {
+          "id_": "Mengendarai",
+          "en": "drive",
+          "pron": "draif",
+          "emoji": "🖼️",
+          "img": "./img/activity/33.png"
+        },
+        {
+          "id_": "Mengerjakan pr",
+          "en": "do homework",
+          "pron": "du houm-work",
+          "emoji": "🖼️",
+          "img": "./img/activity/34.png"
+        },
+        {
+          "id_": "Mengetuk",
+          "en": "knock",
+          "pron": "nok",
+          "emoji": "🖼️",
+          "img": "./img/activity/35.png"
+        },
+        {
+          "id_": "Menghapus",
+          "en": "erase",
+          "pron": "e-reis",
+          "emoji": "🖼️",
+          "img": "./img/activity/36.png"
+        },
+        {
+          "id_": "Mengupas",
+          "en": "peel",
+          "pron": "pil",
+          "emoji": "🖼️",
+          "img": "./img/activity/37.png"
+        },
+        {
+          "id_": "Menonton",
+          "en": "watch",
+          "pron": "wach",
+          "emoji": "🖼️",
+          "img": "./img/activity/38.png"
+        },
+        {
+          "id_": "Menuang",
+          "en": "pour",
+          "pron": "por",
+          "emoji": "🖼️",
+          "img": "./img/activity/39.png"
+        },
+        {
+          "id_": "Menulis",
+          "en": "write",
+          "pron": "rait",
+          "emoji": "🖼️",
+          "img": "./img/activity/40.png"
+        },
+        {
+          "id_": "Menyapu",
+          "en": "sweep",
+          "pron": "swip",
+          "emoji": "🖼️",
+          "img": "./img/activity/41.png"
+        },
+        {
+          "id_": "Menyikat gigi",
+          "en": "brush teeth",
+          "pron": "bras tif",
+          "emoji": "🖼️",
+          "img": "./img/activity/42.png"
+        },
+        {
+          "id_": "Merapikan tempat tidur",
+          "en": "make bed",
+          "pron": "meik bed",
+          "emoji": "🖼️",
+          "img": "./img/activity/43.png"
+        },
+        {
+          "id_": "Merebus",
+          "en": "boil",
+          "pron": "boel",
+          "emoji": "🖼️",
+          "img": "./img/activity/44.png"
+        },
+        {
+          "id_": "Minum",
+          "en": "drink",
+          "pron": "dringk",
+          "emoji": "🖼️",
+          "img": "./img/activity/45.png"
+        },
+        {
+          "id_": "Olahraga",
+          "en": "exercise",
+          "pron": "ek-ser-sais",
+          "emoji": "🖼️",
+          "img": "./img/activity/46.png"
+        },
+        {
+          "id_": "Tarik",
+          "en": "pull",
+          "pron": "pol",
+          "emoji": "🖼️",
+          "img": "./img/activity/47.png"
+        },
+        {
+          "id_": "Tidur",
+          "en": "sleep",
+          "pron": "slip",
+          "emoji": "🖼️",
+          "img": "./img/activity/48.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 9",
+      "title": "Part of My Body",
+      "title_id": "Bagian Tubuhku",
+      "bg_img": "./img/body/0.png",
+      "color": "#C0392B",
+      "words": [
+        {
+          "id_": "Alis",
+          "en": "eyebrow",
+          "pron": "ai-brau",
+          "emoji": "🖼️",
+          "img": "./img/body/1.png"
+        },
+        {
+          "id_": "Bahu",
+          "en": "shoulder",
+          "pron": "syol-der",
+          "emoji": "🖼️",
+          "img": "./img/body/2.png"
+        },
+        {
+          "id_": "Bibir",
+          "en": "lip",
+          "pron": "lip",
+          "emoji": "🖼️",
+          "img": "./img/body/3.png"
+        },
+        {
+          "id_": "Bulu mata",
+          "en": "eyelash",
+          "pron": "ai-lash",
+          "emoji": "🖼️",
+          "img": "./img/body/4.png"
+        },
+        {
+          "id_": "Dada",
+          "en": "chest",
+          "pron": "chest",
+          "emoji": "🖼️",
+          "img": "./img/body/5.png"
+        },
+        {
+          "id_": "Dagu",
+          "en": "chin",
+          "pron": "chin",
+          "emoji": "🖼️",
+          "img": "./img/body/6.png"
+        },
+        {
+          "id_": "Gigi",
+          "en": "teeth",
+          "pron": "tif",
+          "emoji": "🖼️",
+          "img": "./img/body/7.png"
+        },
+        {
+          "id_": "Hidung",
+          "en": "nose",
+          "pron": "nos",
+          "emoji": "🖼️",
+          "img": "./img/body/8.png"
+        },
+        {
+          "id_": "Ibu jari",
+          "en": "thumb",
+          "pron": "tham",
+          "emoji": "🖼️",
+          "img": "./img/body/9.png"
+        },
+        {
+          "id_": "Jari kaki",
+          "en": "toes",
+          "pron": "tos",
+          "emoji": "🖼️",
+          "img": "./img/body/10.png"
+        },
+        {
+          "id_": "Jari kelingking",
+          "en": "little finger",
+          "pron": "li-del fing-ger",
+          "emoji": "🖼️",
+          "img": "./img/body/11.png"
+        },
+        {
+          "id_": "Jari manis",
+          "en": "ring finger",
+          "pron": "ring fing-ger",
+          "emoji": "🖼️",
+          "img": "./img/body/12.png"
+        },
+        {
+          "id_": "Jari tangan",
+          "en": "finger",
+          "pron": "fing-ger",
+          "emoji": "🖼️",
+          "img": "./img/body/13.png"
+        },
+        {
+          "id_": "Jari telunjuk",
+          "en": "index finger",
+          "pron": "in-deks fing-ger",
+          "emoji": "🖼️",
+          "img": "./img/body/14.png"
+        },
+        {
+          "id_": "Jari tengah",
+          "en": "middle finger",
+          "pron": "mi-del fing-ger",
+          "emoji": "🖼️",
+          "img": "./img/body/15.png"
+        },
+        {
+          "id_": "Kaki",
+          "en": "leg",
+          "pron": "leg",
+          "emoji": "🖼️",
+          "img": "./img/body/16.png"
+        },
+        {
+          "id_": "Kepala",
+          "en": "head",
+          "pron": "hed",
+          "emoji": "🖼️",
+          "img": "./img/body/17.png"
+        },
+        {
+          "id_": "Ketiak",
+          "en": "armpit",
+          "pron": "arm-pit",
+          "emoji": "🖼️",
+          "img": "./img/body/18.png"
+        },
+        {
+          "id_": "Kuku",
+          "en": "nail",
+          "pron": "neil",
+          "emoji": "🖼️",
+          "img": "./img/body/19.png"
+        },
+        {
+          "id_": "Kumis",
+          "en": "mustache",
+          "pron": "mos-dash",
+          "emoji": "🖼️",
+          "img": "./img/body/20.png"
+        },
+        {
+          "id_": "Leher",
+          "en": "neck",
+          "pron": "nek",
+          "emoji": "🖼️",
+          "img": "./img/body/21.png"
+        },
+        {
+          "id_": "Lengan",
+          "en": "arm",
+          "pron": "arm",
+          "emoji": "🖼️",
+          "img": "./img/body/22.png"
+        },
+        {
+          "id_": "Lidah",
+          "en": "tongue",
+          "pron": "tang",
+          "emoji": "🖼️",
+          "img": "./img/body/23.png"
+        },
+        {
+          "id_": "Lutut",
+          "en": "knee",
+          "pron": "ni",
+          "emoji": "🖼️",
+          "img": "./img/body/24.png"
+        },
+        {
+          "id_": "Mata",
+          "en": "eye",
+          "pron": "ai",
+          "emoji": "🖼️",
+          "img": "./img/body/25.png"
+        },
+        {
+          "id_": "Mulut",
+          "en": "mouth",
+          "pron": "mauf",
+          "emoji": "🖼️",
+          "img": "./img/body/26.png"
+        },
+        {
+          "id_": "Perut",
+          "en": "stomach",
+          "pron": "sta-mek",
+          "emoji": "🖼️",
+          "img": "./img/body/27.png"
+        },
+        {
+          "id_": "Pipi",
+          "en": "cheek",
+          "pron": "chik",
+          "emoji": "🖼️",
+          "img": "./img/body/28.png"
+        },
+        {
+          "id_": "Punggung",
+          "en": "back",
+          "pron": "bek",
+          "emoji": "🖼️",
+          "img": "./img/body/29.png"
+        },
+        {
+          "id_": "Rambut",
+          "en": "hair",
+          "pron": "her",
+          "emoji": "🖼️",
+          "img": "./img/body/30.png"
+        },
+        {
+          "id_": "Siku",
+          "en": "elbow",
+          "pron": "el-bou",
+          "emoji": "🖼️",
+          "img": "./img/body/31.png"
+        },
+        {
+          "id_": "Tangan",
+          "en": "hand",
+          "pron": "hend",
+          "emoji": "🖼️",
+          "img": "./img/body/32.png"
+        },
+        {
+          "id_": "Telapak kaki",
+          "en": "sole",
+          "pron": "sol",
+          "emoji": "🖼️",
+          "img": "./img/body/33.png"
+        },
+        {
+          "id_": "Telapak tangan",
+          "en": "palm",
+          "pron": "pam",
+          "emoji": "🖼️",
+          "img": "./img/body/34.png"
+        },
+        {
+          "id_": "Telinga",
+          "en": "ear",
+          "pron": "ier",
+          "emoji": "🖼️",
+          "img": "./img/body/35.png"
+        },
+        {
+          "id_": "Wajah",
+          "en": "face",
+          "pron": "feis",
+          "emoji": "🖼️",
+          "img": "./img/body/36.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 10",
+      "title": "Clothing and Accessories",
+      "title_id": "Pakaian dan Aksesoris",
+      "bg_img": "./img/clothing/0.png",
+      "color": "#D35400",
+      "words": [
+        {
+          "id_": "Anting",
+          "en": "earring",
+          "pron": "ir-ring",
+          "emoji": "🖼️",
+          "img": "./img/clothing/1.png"
+        },
+        {
+          "id_": "Baju kodok",
+          "en": "overall",
+          "pron": "ou-ve-ral",
+          "emoji": "🖼️",
+          "img": "./img/clothing/2.png"
+        },
+        {
+          "id_": "Baju terusan",
+          "en": "jumpsuit",
+          "pron": "jam-sut",
+          "emoji": "🖼️",
+          "img": "./img/clothing/3.png"
+        },
+        {
+          "id_": "Bando",
+          "en": "headband",
+          "pron": "hed-bend",
+          "emoji": "🖼️",
+          "img": "./img/clothing/4.png"
+        },
+        {
+          "id_": "Celana",
+          "en": "pants",
+          "pron": "pents",
+          "emoji": "🖼️",
+          "img": "./img/clothing/5.png"
+        },
+        {
+          "id_": "Celana olahraga",
+          "en": "sweatpants",
+          "pron": "swet-pents",
+          "emoji": "🖼️",
+          "img": "./img/clothing/6.png"
+        },
+        {
+          "id_": "Celana pendek",
+          "en": "shorts",
+          "pron": "shorts",
+          "emoji": "🖼️",
+          "img": "./img/clothing/7.png"
+        },
+        {
+          "id_": "Cincin",
+          "en": "ring",
+          "pron": "ring",
+          "emoji": "🖼️",
+          "img": "./img/clothing/8.png"
+        },
+        {
+          "id_": "Dasi",
+          "en": "tie",
+          "pron": "tai",
+          "emoji": "🖼️",
+          "img": "./img/clothing/9.png"
+        },
+        {
+          "id_": "Dasi kupu-kupu",
+          "en": "bowtie",
+          "pron": "bow-tai",
+          "emoji": "🖼️",
+          "img": "./img/clothing/10.png"
+        },
+        {
+          "id_": "Dompet",
+          "en": "wallet",
+          "pron": "wa-let",
+          "emoji": "🖼️",
+          "img": "./img/clothing/11.png"
+        },
+        {
+          "id_": "Gaun",
+          "en": "dress",
+          "pron": "dres",
+          "emoji": "🖼️",
+          "img": "./img/clothing/12.png"
+        },
+        {
+          "id_": "Gaun panjang",
+          "en": "gown",
+          "pron": "gaun",
+          "emoji": "🖼️",
+          "img": "./img/clothing/13.png"
+        },
+        {
+          "id_": "Gelang",
+          "en": "bracelet",
+          "pron": "breis-let",
+          "emoji": "🖼️",
+          "img": "./img/clothing/14.png"
+        },
+        {
+          "id_": "Ikat pinggang",
+          "en": "belt",
+          "pron": "belt",
+          "emoji": "🖼️",
+          "img": "./img/clothing/15.png"
+        },
+        {
+          "id_": "Jaket",
+          "en": "jacket",
+          "pron": "ja-ket",
+          "emoji": "🖼️",
+          "img": "./img/clothing/16.png"
+        },
+        {
+          "id_": "Jaket bertudung",
+          "en": "hoodie",
+          "pron": "hu-di",
+          "emoji": "🖼️",
+          "img": "./img/clothing/17.png"
+        },
+        {
+          "id_": "Jam tangan",
+          "en": "watch",
+          "pron": "wach",
+          "emoji": "🖼️",
+          "img": "./img/clothing/18.png"
+        },
+        {
+          "id_": "Jas",
+          "en": "suit",
+          "pron": "sut",
+          "emoji": "🖼️",
+          "img": "./img/clothing/19.png"
+        },
+        {
+          "id_": "Jilbab",
+          "en": "headscarf",
+          "pron": "hed-skarf",
+          "emoji": "🖼️",
+          "img": "./img/clothing/20.png"
+        },
+        {
+          "id_": "Jubah mandi",
+          "en": "bathrobe",
+          "pron": "baf-rob",
+          "emoji": "🖼️",
+          "img": "./img/clothing/21.png"
+        },
+        {
+          "id_": "Kacamata hitam",
+          "en": "sunglasses",
+          "pron": "san-gla-ses",
+          "emoji": "🖼️",
+          "img": "./img/clothing/22.png"
+        },
+        {
+          "id_": "Kalung",
+          "en": "necklace",
+          "pron": "nek-les",
+          "emoji": "🖼️",
+          "img": "./img/clothing/23.png"
+        },
+        {
+          "id_": "Kaos",
+          "en": "t-shirt",
+          "pron": "ti syert",
+          "emoji": "🖼️",
+          "img": "./img/clothing/24.png"
+        },
+        {
+          "id_": "Kaos kaki",
+          "en": "sock",
+          "pron": "sokh",
+          "emoji": "🖼️",
+          "img": "./img/clothing/25.png"
+        },
+        {
+          "id_": "Kemeja",
+          "en": "shirt",
+          "pron": "syert",
+          "emoji": "🖼️",
+          "img": "./img/clothing/26.png"
+        },
+        {
+          "id_": "Kupluk",
+          "en": "beanie",
+          "pron": "bi-ni",
+          "emoji": "🖼️",
+          "img": "./img/clothing/27.png"
+        },
+        {
+          "id_": "Mantel hujan",
+          "en": "raincoat",
+          "pron": "rein-kout",
+          "emoji": "🖼️",
+          "img": "./img/clothing/28.png"
+        },
+        {
+          "id_": "Mantel panjang",
+          "en": "overcoat",
+          "pron": "ou-ver-kout",
+          "emoji": "🖼️",
+          "img": "./img/clothing/29.png"
+        },
+        {
+          "id_": "Peci",
+          "en": "cap",
+          "pron": "kap",
+          "emoji": "🖼️",
+          "img": "./img/clothing/30.png"
+        },
+        {
+          "id_": "Penutup telinga",
+          "en": "earmuff",
+          "pron": "ir-maf",
+          "emoji": "🖼️",
+          "img": "./img/clothing/31.png"
+        },
+        {
+          "id_": "Piyama",
+          "en": "pajamas",
+          "pron": "pa-ja-mes",
+          "emoji": "🖼️",
+          "img": "./img/clothing/32.png"
+        },
+        {
+          "id_": "Popok",
+          "en": "diaper",
+          "pron": "dai-per",
+          "emoji": "🖼️",
+          "img": "./img/clothing/33.png"
+        },
+        {
+          "id_": "Rok",
+          "en": "skirt",
+          "pron": "skert",
+          "emoji": "🖼️",
+          "img": "./img/clothing/34.png"
+        },
+        {
+          "id_": "Rompi",
+          "en": "vest",
+          "pron": "vest",
+          "emoji": "🖼️",
+          "img": "./img/clothing/35.png"
+        },
+        {
+          "id_": "Rompi formal",
+          "en": "waistcoat",
+          "pron": "weist-kot",
+          "emoji": "🖼️",
+          "img": "./img/clothing/36.png"
+        },
+        {
+          "id_": "Sandal",
+          "en": "slipper",
+          "pron": "slip-per",
+          "emoji": "🖼️",
+          "img": "./img/clothing/37.png"
+        },
+        {
+          "id_": "Sarung tangan",
+          "en": "glove",
+          "pron": "glof",
+          "emoji": "🖼️",
+          "img": "./img/clothing/38.png"
+        },
+        {
+          "id_": "Sepatu",
+          "en": "shoes",
+          "pron": "syus",
+          "emoji": "🖼️",
+          "img": "./img/clothing/39.png"
+        },
+        {
+          "id_": "Seragam",
+          "en": "uniform",
+          "pron": "yu-ne-form",
+          "emoji": "🖼️",
+          "img": "./img/clothing/40.png"
+        },
+        {
+          "id_": "Syal",
+          "en": "scarf",
+          "pron": "skarf",
+          "emoji": "🖼️",
+          "img": "./img/clothing/41.png"
+        },
+        {
+          "id_": "Topi",
+          "en": "hat",
+          "pron": "heth",
+          "emoji": "🖼️",
+          "img": "./img/clothing/42.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 11",
+      "title": "Color",
+      "title_id": "Warna",
+      "bg_img": "./img/color/0.png",
+      "color": "#9B59B6",
+      "words": [
+        {
+          "id_": "Abu-abu",
+          "en": "gray",
+          "pron": "grei",
+          "emoji": "🖼️",
+          "img": "./img/color/1.png"
+        },
+        {
+          "id_": "Biru",
+          "en": "blue",
+          "pron": "blu",
+          "emoji": "🖼️",
+          "img": "./img/color/2.png"
+        },
+        {
+          "id_": "Coklat",
+          "en": "brown",
+          "pron": "bra-un",
+          "emoji": "🖼️",
+          "img": "./img/color/3.png"
+        },
+        {
+          "id_": "Hijau",
+          "en": "green",
+          "pron": "grin",
+          "emoji": "🖼️",
+          "img": "./img/color/4.png"
+        },
+        {
+          "id_": "Hitam",
+          "en": "black",
+          "pron": "blak",
+          "emoji": "🖼️",
+          "img": "./img/color/5.png"
+        },
+        {
+          "id_": "Jingga",
+          "en": "orange",
+          "pron": "o-renc",
+          "emoji": "🖼️",
+          "img": "./img/color/6.png"
+        },
+        {
+          "id_": "Kuning",
+          "en": "yellow",
+          "pron": "ye-low",
+          "emoji": "🖼️",
+          "img": "./img/color/7.png"
+        },
+        {
+          "id_": "Merah",
+          "en": "red",
+          "pron": "red",
+          "emoji": "🖼️",
+          "img": "./img/color/8.png"
+        },
+        {
+          "id_": "Merah Muda",
+          "en": "pink",
+          "pron": "pingk",
+          "emoji": "🖼️",
+          "img": "./img/color/9.png"
+        },
+        {
+          "id_": "Putih",
+          "en": "white",
+          "pron": "waith",
+          "emoji": "🖼️",
+          "img": "./img/color/10.png"
+        },
+        {
+          "id_": "Ungu",
+          "en": "purple",
+          "pron": "per-pel",
+          "emoji": "🖼️",
+          "img": "./img/color/11.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 12",
+      "title": "Fruit and Vegetable",
+      "title_id": "Buah dan Sayur",
+      "bg_img": "./img/fruit/0.png",
+      "color": "#27AE60",
+      "words": [
+        {
+          "id_": "Alpukat",
+          "en": "avocado",
+          "pron": "a-vo-ka-dou",
+          "emoji": "🖼️",
+          "img": "./img/fruit/1.png"
+        },
+        {
+          "id_": "Anggur",
+          "en": "grape",
+          "pron": "gre-ip",
+          "emoji": "🖼️",
+          "img": "./img/fruit/2.png"
+        },
+        {
+          "id_": "Apel",
+          "en": "apple",
+          "pron": "a-pel",
+          "emoji": "🖼️",
+          "img": "./img/fruit/3.png"
+        },
+        {
+          "id_": "Bawang bombai",
+          "en": "onion",
+          "pron": "ani-en",
+          "emoji": "🖼️",
+          "img": "./img/fruit/4.png"
+        },
+        {
+          "id_": "Bawang perai",
+          "en": "leek",
+          "pron": "lik",
+          "emoji": "🖼️",
+          "img": "./img/fruit/5.png"
+        },
+        {
+          "id_": "Bawang putih",
+          "en": "garlic",
+          "pron": "gar-lik",
+          "emoji": "🖼️",
+          "img": "./img/fruit/6.png"
+        },
+        {
+          "id_": "Bayam",
+          "en": "spinach",
+          "pron": "spi-nich",
+          "emoji": "🖼️",
+          "img": "./img/fruit/7.png"
+        },
+        {
+          "id_": "Belimbing",
+          "en": "star fruit",
+          "pron": "star-frut",
+          "emoji": "🖼️",
+          "img": "./img/fruit/8.png"
+        },
+        {
+          "id_": "Bit",
+          "en": "beet",
+          "pron": "bit",
+          "emoji": "🖼️",
+          "img": "./img/fruit/9.png"
+        },
+        {
+          "id_": "Bluberi",
+          "en": "blueberry",
+          "pron": "blu-ber-ri",
+          "emoji": "🖼️",
+          "img": "./img/fruit/10.png"
+        },
+        {
+          "id_": "Brokoli",
+          "en": "broccoli",
+          "pron": "bra-ke-li",
+          "emoji": "🖼️",
+          "img": "./img/fruit/11.png"
+        },
+        {
+          "id_": "Buncis",
+          "en": "green beans",
+          "pron": "grin bins",
+          "emoji": "🖼️",
+          "img": "./img/fruit/12.png"
+        },
+        {
+          "id_": "Cabai",
+          "en": "chili",
+          "pron": "chi-li",
+          "emoji": "🖼️",
+          "img": "./img/fruit/13.png"
+        },
+        {
+          "id_": "Ceri",
+          "en": "cherry",
+          "pron": "che-ri",
+          "emoji": "🖼️",
+          "img": "./img/fruit/14.png"
+        },
+        {
+          "id_": "Delima",
+          "en": "pomegranate",
+          "pron": "po-me-gre-net",
+          "emoji": "🖼️",
+          "img": "./img/fruit/15.png"
+        },
+        {
+          "id_": "Durian",
+          "en": "durian",
+          "pron": "du-ri-en",
+          "emoji": "🖼️",
+          "img": "./img/fruit/16.png"
+        },
+        {
+          "id_": "Jagung",
+          "en": "corn",
+          "pron": "korn",
+          "emoji": "🖼️",
+          "img": "./img/fruit/17.png"
+        },
+        {
+          "id_": "Jahe",
+          "en": "ginger",
+          "pron": "jin-jer",
+          "emoji": "🖼️",
+          "img": "./img/fruit/18.png"
+        },
+        {
+          "id_": "Jambu",
+          "en": "guava",
+          "pron": "gua-fa",
+          "emoji": "🖼️",
+          "img": "./img/fruit/19.png"
+        },
+        {
+          "id_": "Jamur",
+          "en": "mushroom",
+          "pron": "mash-rum",
+          "emoji": "🖼️",
+          "img": "./img/fruit/20.png"
+        },
+        {
+          "id_": "Jeruk",
+          "en": "orange",
+          "pron": "o-renc",
+          "emoji": "🖼️",
+          "img": "./img/fruit/21.png"
+        },
+        {
+          "id_": "Jeruk nipis",
+          "en": "lime",
+          "pron": "laim",
+          "emoji": "🖼️",
+          "img": "./img/fruit/22.png"
+        },
+        {
+          "id_": "Kacang",
+          "en": "peanut",
+          "pron": "pi-nat",
+          "emoji": "🖼️",
+          "img": "./img/fruit/23.png"
+        },
+        {
+          "id_": "Kelapa",
+          "en": "coconut",
+          "pron": "kou-ke-nat",
+          "emoji": "🖼️",
+          "img": "./img/fruit/24.png"
+        },
+        {
+          "id_": "Kembang kol",
+          "en": "cauliflower",
+          "pron": "ko-le-flau-er",
+          "emoji": "🖼️",
+          "img": "./img/fruit/25.png"
+        },
+        {
+          "id_": "Kentang",
+          "en": "potato",
+          "pron": "po-tei-tou",
+          "emoji": "🖼️",
+          "img": "./img/fruit/26.png"
+        },
+        {
+          "id_": "Kiwi",
+          "en": "kiwi",
+          "pron": "ki-wi",
+          "emoji": "🖼️",
+          "img": "./img/fruit/27.png"
+        },
+        {
+          "id_": "Kubis",
+          "en": "cabbage",
+          "pron": "ka-bic",
+          "emoji": "🖼️",
+          "img": "./img/fruit/28.png"
+        },
+        {
+          "id_": "Kunyit",
+          "en": "turmeric",
+          "pron": "ter-me-rik",
+          "emoji": "🖼️",
+          "img": "./img/fruit/29.png"
+        },
+        {
+          "id_": "Labu",
+          "en": "pumpkin",
+          "pron": "pamp-kin",
+          "emoji": "🖼️",
+          "img": "./img/fruit/30.png"
+        },
+        {
+          "id_": "Leci",
+          "en": "lychee",
+          "pron": "lai-ci",
+          "emoji": "🖼️",
+          "img": "./img/fruit/31.png"
+        },
+        {
+          "id_": "Lengkuas",
+          "en": "galangal",
+          "pron": "ge-leng-gel",
+          "emoji": "🖼️",
+          "img": "./img/fruit/32.png"
+        },
+        {
+          "id_": "Lobak",
+          "en": "radish",
+          "pron": "ra-dish",
+          "emoji": "🖼️",
+          "img": "./img/fruit/33.png"
+        },
+        {
+          "id_": "Mangga",
+          "en": "mango",
+          "pron": "meng-gou",
+          "emoji": "🖼️",
+          "img": "./img/fruit/34.png"
+        },
+        {
+          "id_": "Markisa",
+          "en": "passion fruit",
+          "pron": "pe-syen frut",
+          "emoji": "🖼️",
+          "img": "./img/fruit/35.png"
+        },
+        {
+          "id_": "Melon",
+          "en": "melon",
+          "pron": "me-len",
+          "emoji": "🖼️",
+          "img": "./img/fruit/36.png"
+        },
+        {
+          "id_": "Nanas",
+          "en": "pineapple",
+          "pron": "pai-ne-pel",
+          "emoji": "🖼️",
+          "img": "./img/fruit/37.png"
+        },
+        {
+          "id_": "Paprika",
+          "en": "bell pepper",
+          "pron": "bel pe-per",
+          "emoji": "🖼️",
+          "img": "./img/fruit/38.png"
+        },
+        {
+          "id_": "Pepaya",
+          "en": "papaya",
+          "pron": "pa-pai-a",
+          "emoji": "🖼️",
+          "img": "./img/fruit/39.png"
+        },
+        {
+          "id_": "Persik",
+          "en": "peach",
+          "pron": "pich",
+          "emoji": "🖼️",
+          "img": "./img/fruit/40.png"
+        },
+        {
+          "id_": "Pir",
+          "en": "pear",
+          "pron": "per",
+          "emoji": "🖼️",
+          "img": "./img/fruit/41.png"
+        },
+        {
+          "id_": "Pisang",
+          "en": "banana",
+          "pron": "ba-ne-na",
+          "emoji": "🖼️",
+          "img": "./img/fruit/42.png"
+        },
+        {
+          "id_": "Selada",
+          "en": "lettuce",
+          "pron": "le-des",
+          "emoji": "🖼️",
+          "img": "./img/fruit/43.png"
+        },
+        {
+          "id_": "Seledri",
+          "en": "celery",
+          "pron": "se-le-ri",
+          "emoji": "🖼️",
+          "img": "./img/fruit/44.png"
+        },
+        {
+          "id_": "Semangka",
+          "en": "watermelon",
+          "pron": "wa-der-me-len",
+          "emoji": "🖼️",
+          "img": "./img/fruit/45.png"
+        },
+        {
+          "id_": "Serai",
+          "en": "lemongrass",
+          "pron": "le-meng-gras",
+          "emoji": "🖼️",
+          "img": "./img/fruit/46.png"
+        },
+        {
+          "id_": "Singkong",
+          "en": "cassava",
+          "pron": "ka-sa-va",
+          "emoji": "🖼️",
+          "img": "./img/fruit/47.png"
+        },
+        {
+          "id_": "Sirsak",
+          "en": "soursop",
+          "pron": "sa-wer sop",
+          "emoji": "🖼️",
+          "img": "./img/fruit/48.png"
+        },
+        {
+          "id_": "Stroberi",
+          "en": "strawberry",
+          "pron": "stro-be-ri",
+          "emoji": "🖼️",
+          "img": "./img/fruit/49.png"
+        },
+        {
+          "id_": "Terong",
+          "en": "eggplant",
+          "pron": "eg-plent",
+          "emoji": "🖼️",
+          "img": "./img/fruit/50.png"
+        },
+        {
+          "id_": "Timun",
+          "en": "cucumber",
+          "pron": "kyu-kam-ber",
+          "emoji": "🖼️",
+          "img": "./img/fruit/51.png"
+        },
+        {
+          "id_": "Tomat",
+          "en": "tomato",
+          "pron": "to-mei-tou",
+          "emoji": "🖼️",
+          "img": "./img/fruit/52.png"
+        },
+        {
+          "id_": "Ubi jalar",
+          "en": "sweet potato",
+          "pron": "swit po-tei-tou",
+          "emoji": "🖼️",
+          "img": "./img/fruit/53.png"
+        },
+        {
+          "id_": "Wortel",
+          "en": "carrot",
+          "pron": "ke-ret",
+          "emoji": "🖼️",
+          "img": "./img/fruit/54.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 13",
+      "title": "Weather and Season",
+      "title_id": "Cuaca dan Musim",
+      "bg_img": "./img/weather/0.png",
+      "color": "#2471A3",
+      "words": [
+        {
+          "id_": "Badai",
+          "en": "storm",
+          "pron": "storm",
+          "emoji": "🖼️",
+          "img": "./img/weather/1.png"
+        },
+        {
+          "id_": "Berangin",
+          "en": "windy",
+          "pron": "win-di",
+          "emoji": "🖼️",
+          "img": "./img/weather/2.png"
+        },
+        {
+          "id_": "Berawan",
+          "en": "cloudy",
+          "pron": "klau-di",
+          "emoji": "🖼️",
+          "img": "./img/weather/3.png"
+        },
+        {
+          "id_": "Berkabut",
+          "en": "foggy",
+          "pron": "fa-gi",
+          "emoji": "🖼️",
+          "img": "./img/weather/4.png"
+        },
+        {
+          "id_": "Bersalju",
+          "en": "snowy",
+          "pron": "sno-wi",
+          "emoji": "🖼️",
+          "img": "./img/weather/5.png"
+        },
+        {
+          "id_": "Cerah",
+          "en": "sunny",
+          "pron": "sa-ni",
+          "emoji": "🖼️",
+          "img": "./img/weather/6.png"
+        },
+        {
+          "id_": "Dingin",
+          "en": "cold",
+          "pron": "kold",
+          "emoji": "🖼️",
+          "img": "./img/weather/7.png"
+        },
+        {
+          "id_": "Embun",
+          "en": "dew",
+          "pron": "du",
+          "emoji": "🖼️",
+          "img": "./img/weather/8.png"
+        },
+        {
+          "id_": "Embun beku",
+          "en": "frost",
+          "pron": "frost",
+          "emoji": "🖼️",
+          "img": "./img/weather/9.png"
+        },
+        {
+          "id_": "Gerimis",
+          "en": "drizzle",
+          "pron": "dri-sel",
+          "emoji": "🖼️",
+          "img": "./img/weather/10.png"
+        },
+        {
+          "id_": "Hujan",
+          "en": "rain",
+          "pron": "re-in",
+          "emoji": "🖼️",
+          "img": "./img/weather/11.png"
+        },
+        {
+          "id_": "Hujan es",
+          "en": "sleet",
+          "pron": "slit",
+          "emoji": "🖼️",
+          "img": "./img/weather/12.png"
+        },
+        {
+          "id_": "Kering",
+          "en": "dry",
+          "pron": "dry",
+          "emoji": "🖼️",
+          "img": "./img/weather/13.png"
+        },
+        {
+          "id_": "Mendung",
+          "en": "gloomy",
+          "pron": "glu-mi",
+          "emoji": "🖼️",
+          "img": "./img/weather/14.png"
+        },
+        {
+          "id_": "Musim dingin",
+          "en": "winter",
+          "pron": "win-ter",
+          "emoji": "🖼️",
+          "img": "./img/weather/15.png"
+        },
+        {
+          "id_": "Musim gugur",
+          "en": "autumn",
+          "pron": "a-dem",
+          "emoji": "🖼️",
+          "img": "./img/weather/16.png"
+        },
+        {
+          "id_": "Musim panas",
+          "en": "summer",
+          "pron": "sam-mer",
+          "emoji": "🖼️",
+          "img": "./img/weather/17.png"
+        },
+        {
+          "id_": "Musim semi",
+          "en": "spring",
+          "pron": "spring",
+          "emoji": "🖼️",
+          "img": "./img/weather/18.png"
+        },
+        {
+          "id_": "Panas",
+          "en": "hot",
+          "pron": "hot",
+          "emoji": "🖼️",
+          "img": "./img/weather/19.png"
+        },
+        {
+          "id_": "Pelangi",
+          "en": "rainbow",
+          "pron": "rin-bow",
+          "emoji": "🖼️",
+          "img": "./img/weather/20.png"
+        },
+        {
+          "id_": "Petir",
+          "en": "lightning",
+          "pron": "lait-ning",
+          "emoji": "🖼️",
+          "img": "./img/weather/21.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 14",
+      "title": "Toy",
+      "title_id": "Mainan",
+      "bg_img": "./img/toy/0.png",
+      "color": "#F1C40F",
+      "words": [
+        {
+          "id_": "Ayunan",
+          "en": "swing",
+          "pron": "swing",
+          "emoji": "🖼️",
+          "img": "./img/toy/1.png"
+        },
+        {
+          "id_": "Balok huruf",
+          "en": "alphabet block",
+          "pron": "al-fa-bet blok",
+          "emoji": "🖼️",
+          "img": "./img/toy/2.png"
+        },
+        {
+          "id_": "Balok susun",
+          "en": "building block",
+          "pron": "bel-ding blok",
+          "emoji": "🖼️",
+          "img": "./img/toy/3.png"
+        },
+        {
+          "id_": "Balon",
+          "en": "balloon",
+          "pron": "be-lun",
+          "emoji": "🖼️",
+          "img": "./img/toy/4.png"
+        },
+        {
+          "id_": "Bebek karet",
+          "en": "rubber duck",
+          "pron": "ra-ber dak",
+          "emoji": "🖼️",
+          "img": "./img/toy/5.png"
+        },
+        {
+          "id_": "Bola",
+          "en": "ball",
+          "pron": "bol",
+          "emoji": "🖼️",
+          "img": "./img/toy/6.png"
+        },
+        {
+          "id_": "Boneka",
+          "en": "doll",
+          "pron": "dol",
+          "emoji": "🖼️",
+          "img": "./img/toy/7.png"
+        },
+        {
+          "id_": "Boneka tangan",
+          "en": "hand puppet",
+          "pron": "hend pa-pet",
+          "emoji": "🖼️",
+          "img": "./img/toy/8.png"
+        },
+        {
+          "id_": "Catur",
+          "en": "chess",
+          "pron": "ces",
+          "emoji": "🖼️",
+          "img": "./img/toy/9.png"
+        },
+        {
+          "id_": "Dadu",
+          "en": "dice",
+          "pron": "dais",
+          "emoji": "🖼️",
+          "img": "./img/toy/10.png"
+        },
+        {
+          "id_": "Egrang",
+          "en": "stilt",
+          "pron": "stilt",
+          "emoji": "🖼️",
+          "img": "./img/toy/11.png"
+        },
+        {
+          "id_": "Gelembung",
+          "en": "bubble",
+          "pron": "ba-bel",
+          "emoji": "🖼️",
+          "img": "./img/toy/12.png"
+        },
+        {
+          "id_": "Jungkat-jungkit",
+          "en": "seesaw",
+          "pron": "si-soo",
+          "emoji": "🖼️",
+          "img": "./img/toy/13.png"
+        },
+        {
+          "id_": "Kelereng",
+          "en": "marbles",
+          "pron": "mar-bels",
+          "emoji": "🖼️",
+          "img": "./img/toy/14.png"
+        },
+        {
+          "id_": "Kereta luncur",
+          "en": "sled",
+          "pron": "sled",
+          "emoji": "🖼️",
+          "img": "./img/toy/15.png"
+        },
+        {
+          "id_": "Kubus Rubik",
+          "en": "rubik's cube",
+          "pron": "ru-biks kyub",
+          "emoji": "🖼️",
+          "img": "./img/toy/16.png"
+        },
+        {
+          "id_": "Kuda goyang",
+          "en": "rocking horse",
+          "pron": "ra-king hors",
+          "emoji": "🖼️",
+          "img": "./img/toy/17.png"
+        },
+        {
+          "id_": "Layangan",
+          "en": "kite",
+          "pron": "kait",
+          "emoji": "🖼️",
+          "img": "./img/toy/18.png"
+        },
+        {
+          "id_": "Lompat tali",
+          "en": "jump rope",
+          "pron": "jump rop",
+          "emoji": "🖼️",
+          "img": "./img/toy/19.png"
+        },
+        {
+          "id_": "Mobil kendali jarak jauh",
+          "en": "remote-control car",
+          "pron": "re-mot ken-trol kar",
+          "emoji": "🖼️",
+          "img": "./img/toy/20.png"
+        },
+        {
+          "id_": "Monopoli",
+          "en": "monopoly",
+          "pron": "me-na-pe-ly",
+          "emoji": "🖼️",
+          "img": "./img/toy/21.png"
+        },
+        {
+          "id_": "Papan luncur",
+          "en": "skateboard",
+          "pron": "skeit-bord",
+          "emoji": "🖼️",
+          "img": "./img/toy/22.png"
+        },
+        {
+          "id_": "Perosotan",
+          "en": "slide",
+          "pron": "slaid",
+          "emoji": "🖼️",
+          "img": "./img/toy/23.png"
+        },
+        {
+          "id_": "Pesawat kertas",
+          "en": "paper plane",
+          "pron": "pei-per ple-in",
+          "emoji": "🖼️",
+          "img": "./img/toy/24.png"
+        },
+        {
+          "id_": "Pistol mainan",
+          "en": "toy gun",
+          "pron": "toi gan",
+          "emoji": "🖼️",
+          "img": "./img/toy/25.png"
+        },
+        {
+          "id_": "Plastisin",
+          "en": "plasticine",
+          "pron": "plas-te-sin",
+          "emoji": "🖼️",
+          "img": "./img/toy/26.png"
+        },
+        {
+          "id_": "Robot",
+          "en": "robot",
+          "pron": "ro-bat",
+          "emoji": "🖼️",
+          "img": "./img/toy/27.png"
+        },
+        {
+          "id_": "Rumah bermain",
+          "en": "playhouse",
+          "pron": "plei-haus",
+          "emoji": "🖼️",
+          "img": "./img/toy/28.png"
+        },
+        {
+          "id_": "Rumah boneka",
+          "en": "dollhouse",
+          "pron": "dol-haus",
+          "emoji": "🖼️",
+          "img": "./img/toy/29.png"
+        },
+        {
+          "id_": "Sepatu roda",
+          "en": "roller skate",
+          "pron": "ro-ler sket",
+          "emoji": "🖼️",
+          "img": "./img/toy/30.png"
+        },
+        {
+          "id_": "Sepeda",
+          "en": "bicycle",
+          "pron": "bai-se-kel",
+          "emoji": "🖼️",
+          "img": "./img/toy/31.png"
+        },
+        {
+          "id_": "Simpai",
+          "en": "hula hoop",
+          "pron": "hu-la hup",
+          "emoji": "🖼️",
+          "img": "./img/toy/32.png"
+        },
+        {
+          "id_": "Skuter",
+          "en": "scooter",
+          "pron": "sku-der",
+          "emoji": "🖼️",
+          "img": "./img/toy/33.png"
+        },
+        {
+          "id_": "Teka-teki",
+          "en": "puzzle",
+          "pron": "pa-zel",
+          "emoji": "🖼️",
+          "img": "./img/toy/34.png"
+        },
+        {
+          "id_": "Trampolin",
+          "en": "trampoline",
+          "pron": "trem-po-lin",
+          "emoji": "🖼️",
+          "img": "./img/toy/35.png"
+        },
+        {
+          "id_": "Yoyo",
+          "en": "yoyo",
+          "pron": "you-yo",
+          "emoji": "🖼️",
+          "img": "./img/toy/36.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 15",
+      "title": "Place",
+      "title_id": "Tempat",
+      "bg_img": "./img/place/0.png",
+      "color": "#1ABC9C",
+      "words": [
+        {
+          "id_": "Apotek",
+          "en": "pharmacy",
+          "pron": "par-ma-si",
+          "emoji": "🖼️",
+          "img": "./img/place/1.png"
+        },
+        {
+          "id_": "Bandara",
+          "en": "airport",
+          "pron": "eir-port",
+          "emoji": "🖼️",
+          "img": "./img/place/2.png"
+        },
+        {
+          "id_": "Bank",
+          "en": "bank",
+          "pron": "bengk",
+          "emoji": "🖼️",
+          "img": "./img/place/3.png"
+        },
+        {
+          "id_": "Bioskop",
+          "en": "cinema",
+          "pron": "si-ne-ma",
+          "emoji": "🖼️",
+          "img": "./img/place/4.png"
+        },
+        {
+          "id_": "Dapur",
+          "en": "kitchen",
+          "pron": "kit-chen",
+          "emoji": "🖼️",
+          "img": "./img/place/5.png"
+        },
+        {
+          "id_": "Garasi",
+          "en": "garage",
+          "pron": "ge-ras",
+          "emoji": "🖼️",
+          "img": "./img/place/6.png"
+        },
+        {
+          "id_": "Gedung pengadilan",
+          "en": "courthouse",
+          "pron": "kort-haus",
+          "emoji": "🖼️",
+          "img": "./img/place/7.png"
+        },
+        {
+          "id_": "Gereja",
+          "en": "church",
+          "pron": "cerch",
+          "emoji": "🖼️",
+          "img": "./img/place/8.png"
+        },
+        {
+          "id_": "Halaman Belakang",
+          "en": "backyard",
+          "pron": "bek-yard",
+          "emoji": "🖼️",
+          "img": "./img/place/9.png"
+        },
+        {
+          "id_": "Halte Bus",
+          "en": "bus stop",
+          "pron": "bas stop",
+          "emoji": "🖼️",
+          "img": "./img/place/10.png"
+        },
+        {
+          "id_": "Kafe",
+          "en": "cafe",
+          "pron": "ka-fei",
+          "emoji": "🖼️",
+          "img": "./img/place/11.png"
+        },
+        {
+          "id_": "Kamar Mandi",
+          "en": "bathroom",
+          "pron": "baf-rum",
+          "emoji": "🖼️",
+          "img": "./img/place/12.png"
+        },
+        {
+          "id_": "Kamar Tidur",
+          "en": "bedroom",
+          "pron": "bed-rum",
+          "emoji": "🖼️",
+          "img": "./img/place/13.png"
+        },
+        {
+          "id_": "Kantin",
+          "en": "canteen",
+          "pron": "ken-tin",
+          "emoji": "🖼️",
+          "img": "./img/place/14.png"
+        },
+        {
+          "id_": "Kantor",
+          "en": "office",
+          "pron": "o-fis",
+          "emoji": "🖼️",
+          "img": "./img/place/15.png"
+        },
+        {
+          "id_": "Kantor Pemadam Kebakaran",
+          "en": "fire station",
+          "pron": "fai-er stei-syen",
+          "emoji": "🖼️",
+          "img": "./img/place/16.png"
+        },
+        {
+          "id_": "Kantor Polisi",
+          "en": "police station",
+          "pron": "pe-lis stei-syen",
+          "emoji": "🖼️",
+          "img": "./img/place/17.png"
+        },
+        {
+          "id_": "Kantor Pos",
+          "en": "post office",
+          "pron": "poust o-fis",
+          "emoji": "🖼️",
+          "img": "./img/place/18.png"
+        },
+        {
+          "id_": "Kebun Binatang",
+          "en": "zoo",
+          "pron": "zuu",
+          "emoji": "🖼️",
+          "img": "./img/place/19.png"
+        },
+        {
+          "id_": "Kolam Renang",
+          "en": "swimming pool",
+          "pron": "swi-ming pul",
+          "emoji": "🖼️",
+          "img": "./img/place/20.png"
+        },
+        {
+          "id_": "Kuil",
+          "en": "temple",
+          "pron": "tem-pel",
+          "emoji": "🖼️",
+          "img": "./img/place/21.png"
+        },
+        {
+          "id_": "Masjid",
+          "en": "mosque",
+          "pron": "mosk",
+          "emoji": "🖼️",
+          "img": "./img/place/22.png"
+        },
+        {
+          "id_": "Museum",
+          "en": "museum",
+          "pron": "myu-si-em",
+          "emoji": "🖼️",
+          "img": "./img/place/23.png"
+        },
+        {
+          "id_": "Panti Asuhan",
+          "en": "orphanage",
+          "pron": "or-fe-nij",
+          "emoji": "🖼️",
+          "img": "./img/place/24.png"
+        },
+        {
+          "id_": "Panti Jompo",
+          "en": "nursing home",
+          "pron": "ner-sing hom",
+          "emoji": "🖼️",
+          "img": "./img/place/25.png"
+        },
+        {
+          "id_": "Pasar",
+          "en": "market",
+          "pron": "mar-ket",
+          "emoji": "🖼️",
+          "img": "./img/place/26.png"
+        },
+        {
+          "id_": "Pelabuhan",
+          "en": "harbor",
+          "pron": "har-ber",
+          "emoji": "🖼️",
+          "img": "./img/place/27.png"
+        },
+        {
+          "id_": "Penjara",
+          "en": "prison",
+          "pron": "pri-sen",
+          "emoji": "🖼️",
+          "img": "./img/place/28.png"
+        },
+        {
+          "id_": "Perguruan Tinggi",
+          "en": "college",
+          "pron": "kol-lic",
+          "emoji": "🖼️",
+          "img": "./img/place/29.png"
+        },
+        {
+          "id_": "Perpustakaan",
+          "en": "library",
+          "pron": "lai-bre-ri",
+          "emoji": "🖼️",
+          "img": "./img/place/30.png"
+        },
+        {
+          "id_": "Restoran",
+          "en": "restaurant",
+          "pron": "res-te-rant",
+          "emoji": "🖼️",
+          "img": "./img/place/31.png"
+        },
+        {
+          "id_": "Ruang Tamu",
+          "en": "living room",
+          "pron": "li-ving rum",
+          "emoji": "🖼️",
+          "img": "./img/place/32.png"
+        },
+        {
+          "id_": "Rumah Sakit",
+          "en": "hospital",
+          "pron": "hos-pi-del",
+          "emoji": "🖼️",
+          "img": "./img/place/33.png"
+        },
+        {
+          "id_": "Sekolah",
+          "en": "school",
+          "pron": "skul",
+          "emoji": "🖼️",
+          "img": "./img/place/34.png"
+        },
+        {
+          "id_": "SPBU",
+          "en": "petrol station",
+          "pron": "pe-trol stei-syen",
+          "emoji": "🖼️",
+          "img": "./img/place/35.png"
+        },
+        {
+          "id_": "Stadion",
+          "en": "stadium",
+          "pron": "stei-di-em",
+          "emoji": "🖼️",
+          "img": "./img/place/36.png"
+        },
+        {
+          "id_": "Stasiun",
+          "en": "station",
+          "pron": "stei-syen",
+          "emoji": "🖼️",
+          "img": "./img/place/37.png"
+        },
+        {
+          "id_": "Taman",
+          "en": "park",
+          "pron": "park",
+          "emoji": "🖼️",
+          "img": "./img/place/38.png"
+        },
+        {
+          "id_": "Tempat Bermain",
+          "en": "playground",
+          "pron": "plei-graund",
+          "emoji": "🖼️",
+          "img": "./img/place/39.png"
+        },
+        {
+          "id_": "Tempat Parkir",
+          "en": "parking lot",
+          "pron": "par-king lot",
+          "emoji": "🖼️",
+          "img": "./img/place/40.png"
+        },
+        {
+          "id_": "Toko",
+          "en": "shop",
+          "pron": "shap",
+          "emoji": "🖼️",
+          "img": "./img/place/41.png"
+        },
+        {
+          "id_": "Toko Roti",
+          "en": "bakery",
+          "pron": "bei-ke-ri",
+          "emoji": "🖼️",
+          "img": "./img/place/42.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 16",
+      "title": "Nature",
+      "title_id": "Alam",
+      "bg_img": "./img/nature/0.png",
+      "color": "#229954",
+      "words": [
+        {
+          "id_": "Air terjun",
+          "en": "waterfall",
+          "pron": "wa-der-fol",
+          "emoji": "🖼️",
+          "img": "./img/nature/1.png"
+        },
+        {
+          "id_": "Awan",
+          "en": "cloud",
+          "pron": "klaud",
+          "emoji": "🖼️",
+          "img": "./img/nature/2.png"
+        },
+        {
+          "id_": "Batu",
+          "en": "rock",
+          "pron": "rok",
+          "emoji": "🖼️",
+          "img": "./img/nature/3.png"
+        },
+        {
+          "id_": "Bintang",
+          "en": "star",
+          "pron": "star",
+          "emoji": "🖼️",
+          "img": "./img/nature/4.png"
+        },
+        {
+          "id_": "Bukit",
+          "en": "hill",
+          "pron": "hil",
+          "emoji": "🖼️",
+          "img": "./img/nature/5.png"
+        },
+        {
+          "id_": "Bulan",
+          "en": "moon",
+          "pron": "mun",
+          "emoji": "🖼️",
+          "img": "./img/nature/6.png"
+        },
+        {
+          "id_": "Danau",
+          "en": "lake",
+          "pron": "leik",
+          "emoji": "🖼️",
+          "img": "./img/nature/7.png"
+        },
+        {
+          "id_": "Daratan",
+          "en": "land",
+          "pron": "lend",
+          "emoji": "🖼️",
+          "img": "./img/nature/8.png"
+        },
+        {
+          "id_": "Gua",
+          "en": "cave",
+          "pron": "keiv",
+          "emoji": "🖼️",
+          "img": "./img/nature/9.png"
+        },
+        {
+          "id_": "Gunung",
+          "en": "mountain",
+          "pron": "maun-tin",
+          "emoji": "🖼️",
+          "img": "./img/nature/10.png"
+        },
+        {
+          "id_": "Gurun",
+          "en": "desert",
+          "pron": "de-sert",
+          "emoji": "🖼️",
+          "img": "./img/nature/11.png"
+        },
+        {
+          "id_": "Hutan",
+          "en": "forest",
+          "pron": "fo-rest",
+          "emoji": "🖼️",
+          "img": "./img/nature/12.png"
+        },
+        {
+          "id_": "Kolam",
+          "en": "pond",
+          "pron": "pond",
+          "emoji": "🖼️",
+          "img": "./img/nature/13.png"
+        },
+        {
+          "id_": "Langit",
+          "en": "sky",
+          "pron": "skai",
+          "emoji": "🖼️",
+          "img": "./img/nature/14.png"
+        },
+        {
+          "id_": "Laut",
+          "en": "sea",
+          "pron": "sii",
+          "emoji": "🖼️",
+          "img": "./img/nature/15.png"
+        },
+        {
+          "id_": "Matahari",
+          "en": "sun",
+          "pron": "san",
+          "emoji": "🖼️",
+          "img": "./img/nature/16.png"
+        },
+        {
+          "id_": "Ombak",
+          "en": "wave",
+          "pron": "weiv",
+          "emoji": "🖼️",
+          "img": "./img/nature/17.png"
+        },
+        {
+          "id_": "Padang rumput",
+          "en": "grassland",
+          "pron": "gras-lend",
+          "emoji": "🖼️",
+          "img": "./img/nature/18.png"
+        },
+        {
+          "id_": "Pantai",
+          "en": "beach",
+          "pron": "bish",
+          "emoji": "🖼️",
+          "img": "./img/nature/19.png"
+        },
+        {
+          "id_": "Pasir",
+          "en": "sand",
+          "pron": "send",
+          "emoji": "🖼️",
+          "img": "./img/nature/20.png"
+        },
+        {
+          "id_": "Pulau",
+          "en": "island",
+          "pron": "ai-lend",
+          "emoji": "🖼️",
+          "img": "./img/nature/21.png"
+        },
+        {
+          "id_": "Sungai",
+          "en": "river",
+          "pron": "ri-ver",
+          "emoji": "🖼️",
+          "img": "./img/nature/22.png"
+        },
+        {
+          "id_": "Tanah",
+          "en": "soil",
+          "pron": "so-el",
+          "emoji": "🖼️",
+          "img": "./img/nature/23.png"
+        },
+        {
+          "id_": "Tebing",
+          "en": "cliff",
+          "pron": "klif",
+          "emoji": "🖼️",
+          "img": "./img/nature/24.png"
+        }
+      ]
+    },
+    {
+      "id": "Bab 17",
+      "title": "Feeling",
+      "title_id": "Perasaan",
+      "bg_img": "./img/feeling/0.png",
+      "color": "#E74C3C",
+      "words": [
+        {
+          "id_": "Bangga",
+          "en": "proud",
+          "pron": "praud",
+          "emoji": "🖼️",
+          "img": "./img/feeling/1.png"
+        },
+        {
+          "id_": "Berani",
+          "en": "brave",
+          "pron": "breiv",
+          "emoji": "🖼️",
+          "img": "./img/feeling/2.png"
+        },
+        {
+          "id_": "Bingung",
+          "en": "confused",
+          "pron": "ken-fyusd",
+          "emoji": "🖼️",
+          "img": "./img/feeling/3.png"
+        },
+        {
+          "id_": "Bosan",
+          "en": "bored",
+          "pron": "bord",
+          "emoji": "🖼️",
+          "img": "./img/feeling/4.png"
+        },
+        {
+          "id_": "Cemburu",
+          "en": "jealous",
+          "pron": "je-les",
+          "emoji": "🖼️",
+          "img": "./img/feeling/5.png"
+        },
+        {
+          "id_": "Ceria",
+          "en": "cheerful",
+          "pron": "chir-fel",
+          "emoji": "🖼️",
+          "img": "./img/feeling/6.png"
+        },
+        {
+          "id_": "Gugup",
+          "en": "nervous",
+          "pron": "ner-ves",
+          "emoji": "🖼️",
+          "img": "./img/feeling/7.png"
+        },
+        {
+          "id_": "Haus",
+          "en": "thirsty",
+          "pron": "ther-sti",
+          "emoji": "🖼️",
+          "img": "./img/feeling/8.png"
+        },
+        {
+          "id_": "Kesal",
+          "en": "annoyed",
+          "pron": "a-noid",
+          "emoji": "🖼️",
+          "img": "./img/feeling/9.png"
+        },
+        {
+          "id_": "Kesepian",
+          "en": "lonely",
+          "pron": "loun-li",
+          "emoji": "🖼️",
+          "img": "./img/feeling/10.png"
+        },
+        {
+          "id_": "Khawatir",
+          "en": "worried",
+          "pron": "we-rid",
+          "emoji": "🖼️",
+          "img": "./img/feeling/11.png"
+        },
+        {
+          "id_": "Lapar",
+          "en": "hungry",
+          "pron": "hang-gri",
+          "emoji": "🖼️",
+          "img": "./img/feeling/12.png"
+        },
+        {
+          "id_": "Lelah",
+          "en": "tired",
+          "pron": "tai-erd",
+          "emoji": "🖼️",
+          "img": "./img/feeling/13.png"
+        },
+        {
+          "id_": "Malu",
+          "en": "shy",
+          "pron": "syai",
+          "emoji": "🖼️",
+          "img": "./img/feeling/14.png"
+        },
+        {
+          "id_": "Marah",
+          "en": "angry",
+          "pron": "eng-gri",
+          "emoji": "🖼️",
+          "img": "./img/feeling/15.png"
+        },
+        {
+          "id_": "Mengantuk",
+          "en": "sleepy",
+          "pron": "sli-pi",
+          "emoji": "🖼️",
+          "img": "./img/feeling/16.png"
+        },
+        {
+          "id_": "Sakit",
+          "en": "sick",
+          "pron": "sik",
+          "emoji": "🖼️",
+          "img": "./img/feeling/17.png"
+        },
+        {
+          "id_": "Sedih",
+          "en": "sad",
+          "pron": "sad",
+          "emoji": "🖼️",
+          "img": "./img/feeling/18.png"
+        },
+        {
+          "id_": "Semangat",
+          "en": "excited",
+          "pron": "ek-sai-did",
+          "emoji": "🖼️",
+          "img": "./img/feeling/19.png"
+        },
+        {
+          "id_": "Senang",
+          "en": "happy",
+          "pron": "he-pi",
+          "emoji": "🖼️",
+          "img": "./img/feeling/20.png"
+        },
+        {
+          "id_": "Sombong",
+          "en": "arrogant",
+          "pron": "ere-gent",
+          "emoji": "🖼️",
+          "img": "./img/feeling/21.png"
+        },
+        {
+          "id_": "Takut",
+          "en": "afraid",
+          "pron": "e-freid",
+          "emoji": "🖼️",
+          "img": "./img/feeling/22.png"
+        },
+        {
+          "id_": "Tenang",
+          "en": "calm",
+          "pron": "kam",
+          "emoji": "🖼️",
+          "img": "./img/feeling/23.png"
+        },
+        {
+          "id_": "Terkejut",
+          "en": "surprised",
+          "pron": "ser-praisd",
+          "emoji": "🖼️",
+          "img": "./img/feeling/24.png"
+        }
+      ]
+    }
+  ]
+}
